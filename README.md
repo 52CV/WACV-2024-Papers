@@ -22,8 +22,13 @@
 ## Reid(人员重识别/步态识别/行人检测)
 * [HashReID: Dynamic Network with Binary Codes for Efficient Person Re-identification](https://arxiv.org/abs/2308.11900)
 
+## Face
+* FPAD
+  * [Face Presentation Attack Detection by Excavating Causal Clues and Adapting Embedding Statistics](https://arxiv.org/abs/2308.14551)<br>:star:[code](https://github.com/meilfang/CF-PAD)
 
-
+## 3D(三维重建\三维视觉)
+* 深度估计
+  * [Semi-Supervised Semantic Depth Estimation using Symbiotic Transformer and NearFarMix Augmentation](https://arxiv.org/abs/2308.14400)
 
 
 
