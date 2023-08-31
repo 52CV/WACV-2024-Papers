@@ -19,6 +19,10 @@
 
 ## [2020 年论文分类汇总戳这里](#0)
 
+
+## OCR
+* [DTrOCR: Decoder-only Transformer for Optical Character Recognition](https://arxiv.org/abs/2308.15996)
+
 ## Reid(人员重识别/步态识别/行人检测)
 * [HashReID: Dynamic Network with Binary Codes for Efficient Person Re-identification](https://arxiv.org/abs/2308.11900)
 
