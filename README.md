@@ -17,9 +17,10 @@
 ↘️[ICCV-2021-Papers](https://github.com/52CV/ICCV-2021-Papers)
 ↘️[CVPR-2021-Papers](https://github.com/52CV/CVPR-2021-Papers)
 
-计7篇
+计9篇
 
 ## [2020 年论文分类汇总戳这里](#0)
+
 
 
 ## Vision-Language(视觉语言)
@@ -38,6 +39,9 @@
 ## Reid(人员重识别/步态识别/行人检测)
 * [HashReID: Dynamic Network with Binary Codes for Efficient Person Re-identification](https://arxiv.org/abs/2308.11900)
 
+## Object Tracking
+* [Separable Self and Mixed Attention Transformers for Efficient Object Tracking](https://arxiv.org/abs/2309.03979)<br>:star:[code](https://github.com/goutamyg/SMAT)
+
 ## Face(人脸技术)
 * FPAD
   * [Face Presentation Attack Detection by Excavating Causal Clues and Adapting Embedding Statistics](https://arxiv.org/abs/2308.14551)<br>:star:[code](https://github.com/meilfang/CF-PAD)
@@ -48,7 +52,8 @@
 
 
 
-
+## 其它
+* [REALM: Robust Entropy Adaptive Loss Minimization for Improved Single-Sample Test-Time Adaptation](https://arxiv.org/abs/2309.03964)
 
 
 
