@@ -17,7 +17,7 @@
 ↘️[ICCV-2021-Papers](https://github.com/52CV/ICCV-2021-Papers)
 ↘️[CVPR-2021-Papers](https://github.com/52CV/CVPR-2021-Papers)
 
-计9篇
+计10篇
 
 ## [2020 年论文分类汇总戳这里](#0)
 
@@ -41,6 +41,9 @@
 
 ## Object Tracking
 * [Separable Self and Mixed Attention Transformers for Efficient Object Tracking](https://arxiv.org/abs/2309.03979)<br>:star:[code](https://github.com/goutamyg/SMAT)
+
+## Object Detector
+* [MultIOD: Rehearsal-free Multihead Incremental Object Detector](https://arxiv.org/abs/2309.05334)
 
 ## Face(人脸技术)
 * FPAD
