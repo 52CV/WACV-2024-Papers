@@ -17,7 +17,7 @@
 ↘️[ICCV-2021-Papers](https://github.com/52CV/ICCV-2021-Papers)
 ↘️[CVPR-2021-Papers](https://github.com/52CV/CVPR-2021-Papers)
 
-计12篇
+计13篇
 
 ## [2020 年论文分类汇总戳这里](#0)
 
@@ -31,6 +31,9 @@
 
 ## Dataset(数据集)
 * [SyntheWorld: A Large-Scale Synthetic Dataset for Land Cover Mapping and Building Change Detection](https://arxiv.org/abs/2309.01907)<br>:sunflower:[dataset](https://github.com/JTRNEO/SyntheWorld)
+
+## Image/Video Composition(图像/视频压缩)
+* [Differentiable JPEG: The Devil is in the Details](https://arxiv.org/abs/2309.06978)<br>:star:[code](https://github.com/necla-ml/Diff-JPEG)
 
 ##
 * 时序动作分割
