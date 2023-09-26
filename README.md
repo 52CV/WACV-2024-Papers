@@ -17,7 +17,7 @@
 ↘️[ICCV-2021-Papers](https://github.com/52CV/ICCV-2021-Papers)
 ↘️[CVPR-2021-Papers](https://github.com/52CV/CVPR-2021-Papers)
 
-计15篇
+计16篇
 
 ## [2020 年论文分类汇总戳这里](#0)
 
@@ -56,6 +56,11 @@
 
 ## Object Detector
 * [MultIOD: Rehearsal-free Multihead Incremental Object Detector](https://arxiv.org/abs/2309.05334)
+
+## 
+* 语义分割
+  * 弱监督语义分割 
+    * [Small Objects Matters in Weakly-supervised Semantic Segmentation](https://arxiv.org/abs/2309.14117)
 
 ## Face(人脸技术)
 * FPAD
