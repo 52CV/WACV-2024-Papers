@@ -17,7 +17,7 @@
 ↘️[ICCV-2021-Papers](https://github.com/52CV/ICCV-2021-Papers)
 ↘️[CVPR-2021-Papers](https://github.com/52CV/CVPR-2021-Papers)
 
-计16篇
+计17篇
 
 ## [2020 年论文分类汇总戳这里](#0)
 
@@ -47,6 +47,8 @@
 
 ## OCR(文本检测识别)
 * [DTrOCR: Decoder-only Transformer for Optical Character Recognition](https://arxiv.org/abs/2308.15996)
+* Text Spotting
+  * [Harnessing the Power of Multi-Lingual Datasets for Pre-training: Towards Enhancing Text Spotting Performance](https://arxiv.org/abs/2310.00917)
 
 ## Reid(人员重识别/步态识别/行人检测)
 * [HashReID: Dynamic Network with Binary Codes for Efficient Person Re-identification](https://arxiv.org/abs/2308.11900)
