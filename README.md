@@ -17,9 +17,14 @@
 ↘️[ICCV-2021-Papers](https://github.com/52CV/ICCV-2021-Papers)
 ↘️[CVPR-2021-Papers](https://github.com/52CV/CVPR-2021-Papers)
 
-计17篇
+计21篇
 
 ## [2020 年论文分类汇总戳这里](#0)
+
+## Semi-supervised learning
+* 半监督学习
+  * [SequenceMatch: Revisiting the design of weak-strong augmentations for Semi-supervised learning](https://arxiv.org/abs/2310.15787)<br>:star:[code](https://github.com/beandkay/SequenceMatch)
+  * [Debiasing, calibrating, and improving Semi-supervised Learning performance via simple Ensemble Projector](https://arxiv.org/abs/2310.15764)<br>:star:[code](https://github.com/beandkay/EPASS)
 
 ## Few-Shot Learning
 * [Hyperbolic vs Euclidean Embeddings in Few-Shot Learning: Two Sides of the Same Coin](https://arxiv.org/abs/2309.10013)
@@ -51,7 +56,11 @@
   * [Harnessing the Power of Multi-Lingual Datasets for Pre-training: Towards Enhancing Text Spotting Performance](https://arxiv.org/abs/2310.00917)
 
 ## Reid(人员重识别/步态识别/行人检测)
-* [HashReID: Dynamic Network with Binary Codes for Efficient Person Re-identification](https://arxiv.org/abs/2308.11900)
+* Reid
+  * [HashReID: Dynamic Network with Binary Codes for Efficient Person Re-identification](https://arxiv.org/abs/2308.11900)
+  * [Mitigate Domain Shift by Primary-Auxiliary Objectives Association for Generalizing Person ReID](https://arxiv.org/abs/2310.15913)
+* 行人识别
+  * [ShARc: Shape and Appearance Recognition for Person Identification In-the-wild](https://arxiv.org/abs/2310.15946)
 
 ## Object Tracking
 * [Separable Self and Mixed Attention Transformers for Efficient Object Tracking](https://arxiv.org/abs/2309.03979)<br>:star:[code](https://github.com/goutamyg/SMAT)
