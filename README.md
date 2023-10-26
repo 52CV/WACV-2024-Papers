@@ -35,7 +35,8 @@
 
 
 
-
+## Biometrics(生物特征识别)
+* [Fingervein Verification using Convolutional Multi-Head Attention Network](http://arxiv.org/abs/2310.16808v1)
 
 ##
 * [Open-NeRF: Towards Open Vocabulary NeRF Decomposition](http://arxiv.org/abs/2310.16383v1)
@@ -125,7 +126,6 @@
 * [REALM: Robust Entropy Adaptive Loss Minimization for Improved Single-Sample Test-Time Adaptation](https://arxiv.org/abs/2309.03964)
 * [RecycleNet: Latent Feature Recycling Leads to Iterative Decision Refinement](https://arxiv.org/abs/2309.07513)
 * [Learning Low-Rank Latent Spaces with Simple Deterministic Autoencoder: Theoretical and Empirical Insights](http://arxiv.org/abs/2310.16194v1)
-* [Fingervein Verification using Convolutional Multi-Head Attention Network](http://arxiv.org/abs/2310.16808v1)
 * [Learning Robust Deep Visual Representations from EEG Brain Recordings](http://arxiv.org/abs/2310.16532v1)
 * [VD-GR: Boosting Visual Dialog with Cascaded Spatial-Temporal Multi-Modal GRaphs](http://arxiv.org/abs/2310.16590v1)
 
