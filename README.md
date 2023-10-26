@@ -17,9 +17,35 @@
 ↘️[ICCV-2021-Papers](https://github.com/52CV/ICCV-2021-Papers)
 ↘️[CVPR-2021-Papers](https://github.com/52CV/CVPR-2021-Papers)
 
-计21篇
-
 ## [2020 年论文分类汇总戳这里](#0)
+
+
+## 10月26日更新11篇，计21+11篇.
+* [Fingervein Verification using Convolutional Multi-Head Attention Network](http://arxiv.org/abs/2310.16808v1)
+* [Robust Source-Free Domain Adaptation for Fundus Image Segmentation](http://arxiv.org/abs/2310.16665v1)<br>:star:[code](https://github.com/LinGrayy/PLPB)
+* [Real-time 6-DoF Pose Estimation by an Event-based Camera using Active LED Markers](http://arxiv.org/abs/2310.16618v1)
+* [$\mathbb{VD}$-$\mathbb{GR}$: Boosting $\mathbb{V}$isual $\mathbb{D}$ialog with Cascaded Spatial-Temporal Multi-Modal $\mathbb{GR}$aphs](http://arxiv.org/abs/2310.16590v1)
+* [Learning Robust Deep Visual Representations from EEG Brain Recordings](http://arxiv.org/abs/2310.16532v1)
+* [Open-NeRF: Towards Open Vocabulary NeRF Decomposition](http://arxiv.org/abs/2310.16383v1)
+* [ShadowSense: Unsupervised Domain Adaptation and Feature Fusion for Shadow-Agnostic Tree Crown Detection from RGB-Thermal Drone Imagery](http://arxiv.org/abs/2310.16212v1)<br>:star:[code](https://github.com/rudrakshkapil/ShadowSense)
+* [Wakening Past Concepts without Past Data: Class-Incremental Learning from Online Placebos](http://arxiv.org/abs/2310.16115v1)<br>:star:[code](https://github.com/yaoyao-liu/online-placebos)
+* [CPSeg: Finer-grained Image Semantic Segmentation via Chain-of-Thought Language Prompting](http://arxiv.org/abs/2310.16069v1)
+* [Learning Low-Rank Latent Spaces with Simple Deterministic Autoencoder: Theoretical and Empirical Insights](http://arxiv.org/abs/2310.16194v1)
+* [G-CASCADE: Efficient Cascaded Graph Convolutional Decoding for 2D Medical Image Segmentation](http://arxiv.org/abs/2310.16175v1)
+
+
+
+
+
+##
+* [Open-NeRF: Towards Open Vocabulary NeRF Decomposition](http://arxiv.org/abs/2310.16383v1)
+
+## Lage Language Models
+
+## 
+* 持续学习/增量学习
+  * 类增量
+    * [Wakening Past Concepts without Past Data: Class-Incremental Learning from Online Placebos](http://arxiv.org/abs/2310.16115v1)<br>:star:[code](https://github.com/yaoyao-liu/online-placebos)
 
 ## Semi-supervised learning
 * 半监督学习
@@ -42,7 +68,11 @@
 ## Image/Video Composition(图像/视频压缩)
 * [Differentiable JPEG: The Devil is in the Details](https://arxiv.org/abs/2309.06978)<br>:star:[code](https://github.com/necla-ml/Diff-JPEG)
 
-##
+## Object Pose Estimation(物体姿态估计)
+* 6-DoF
+  * [Real-time 6-DoF Pose Estimation by an Event-based Camera using Active LED Markers](http://arxiv.org/abs/2310.16618v1)
+
+## Action Detector
 * 时序动作分割
   * [OTAS: Unsupervised Boundary Detection for Object-Centric Temporal Action Segmentation](https://arxiv.org/abs/2309.06276)
 
@@ -62,14 +92,19 @@
 * 行人识别
   * [ShARc: Shape and Appearance Recognition for Person Identification In-the-wild](https://arxiv.org/abs/2310.15946)
 
-## Object Tracking
+## Object Tracking(目标跟踪)
 * [Separable Self and Mixed Attention Transformers for Efficient Object Tracking](https://arxiv.org/abs/2309.03979)<br>:star:[code](https://github.com/goutamyg/SMAT)
 
-## Object Detector
+## Object Detector(目标检测)
 * [MultIOD: Rehearsal-free Multihead Incremental Object Detector](https://arxiv.org/abs/2309.05334)
+* 树冠检测
+  * [ShadowSense: Unsupervised Domain Adaptation and Feature Fusion for Shadow-Agnostic Tree Crown Detection from RGB-Thermal Drone Imagery](http://arxiv.org/abs/2310.16212v1)<br>:star:[code](https://github.com/rudrakshkapil/ShadowSense)<br>:star:[code](https://github.com/rudrakshkapil/ShadowSense)
 
-## 
+## Image Segmentation(图像分割)
+* [Robust Source-Free Domain Adaptation for Fundus Image Segmentation](http://arxiv.org/abs/2310.16665v1)<br>:star:[code](https://github.com/LinGrayy/PLPB)
 * 语义分割
+  * 细粒度语义分割  
+    * [CPSeg: Finer-grained Image Semantic Segmentation via Chain-of-Thought Language Prompting](http://arxiv.org/abs/2310.16069v1)
   * 弱监督语义分割 
     * [Small Objects Matters in Weakly-supervised Semantic Segmentation](https://arxiv.org/abs/2309.14117)
 
@@ -81,11 +116,18 @@
 * 深度估计
   * [Semi-Supervised Semantic Depth Estimation using Symbiotic Transformer and NearFarMix Augmentation](https://arxiv.org/abs/2308.14400)
 
+## Medical Image(医学图像处理)
+* 医学图像分割
+  * [G-CASCADE: Efficient Cascaded Graph Convolutional Decoding for 2D Medical Image Segmentation](http://arxiv.org/abs/2310.16175v1)
 
 
 ## 其它
 * [REALM: Robust Entropy Adaptive Loss Minimization for Improved Single-Sample Test-Time Adaptation](https://arxiv.org/abs/2309.03964)
 * [RecycleNet: Latent Feature Recycling Leads to Iterative Decision Refinement](https://arxiv.org/abs/2309.07513)
+* [Learning Low-Rank Latent Spaces with Simple Deterministic Autoencoder: Theoretical and Empirical Insights](http://arxiv.org/abs/2310.16194v1)
+* [Fingervein Verification using Convolutional Multi-Head Attention Network](http://arxiv.org/abs/2310.16808v1)
+* [Learning Robust Deep Visual Representations from EEG Brain Recordings](http://arxiv.org/abs/2310.16532v1)
+* [$\mathbb{VD}$-$\mathbb{GR}$: Boosting $\mathbb{V}$isual $\mathbb{D}$ialog with Cascaded Spatial-Temporal Multi-Modal $\mathbb{GR}$aphs](http://arxiv.org/abs/2310.16590v1)
 
 
 
