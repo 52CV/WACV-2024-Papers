@@ -20,16 +20,8 @@
 ## [2020 年论文分类汇总戳这里](#0)
 
 
-## 10月27日更新9篇，计32+9篇.
-* [A Coarse-to-Fine Pseudo-Labeling (C2FPL) Framework for Unsupervised Video Anomaly Detection](http://arxiv.org/abs/2310.17650v1)
-* [A Hybrid Graph Network for Complex Activity Detection in Video](http://arxiv.org/abs/2310.17493v1)
-* [Detection Defenses: An Empty Promise against Adversarial Patch Attacks on Optical Flow](http://arxiv.org/abs/2310.17403v1)<br>:star:[code](https://github.com/cv-stuttgart/DetectionDefenses)
-* [IndustReal: A Dataset for Procedure Step Recognition Handling Execution Errors in Egocentric Videos in an Industrial-Like Setting](http://arxiv.org/abs/2310.17323v1)<br>:star:[code](https://github.com/TimSchoonbeek/IndustReal)
-* [Scale-Adaptive Feature Aggregation for Efficient Space-Time Video Super-Resolution](http://arxiv.org/abs/2310.17294v1)
-* [Generalizing to Unseen Domains in Diabetic Retinopathy Classification](http://arxiv.org/abs/2310.17255v1)
-* [LP-OVOD: Open-Vocabulary Object Detection by Linear Probing](http://arxiv.org/abs/2310.17109v1)<br>:star:[code](https://github.com/VinAIResearch/LP-OVOD)
-* [Unsupervised Domain Adaptation for Semantic Segmentation with Pseudo Label Self-Refinement](http://arxiv.org/abs/2310.16979v1)
-* [MACP: Efficient Model Adaptation for Cooperative Perception](http://arxiv.org/abs/2310.16870v1)<br>:star:[code](https://github.com/PurdueDigitalTwin/MACP)
+## 10月30日更新3篇，计41+3篇.
+
 
 ## Biometrics(生物特征识别)
 * [Fingervein Verification using Convolutional Multi-Head Attention Network](http://arxiv.org/abs/2310.16808v1)
@@ -69,6 +61,10 @@
 * [SyntheWorld: A Large-Scale Synthetic Dataset for Land Cover Mapping and Building Change Detection](https://arxiv.org/abs/2309.01907)<br>:sunflower:[dataset](https://github.com/JTRNEO/SyntheWorld)
 * [IndustReal: A Dataset for Procedure Step Recognition Handling Execution Errors in Egocentric Videos in an Industrial-Like Setting](http://arxiv.org/abs/2310.17323v1)<br>:star:[code](https://github.com/TimSchoonbeek/IndustReal)
 
+## GAN/
+* GAN
+  * [PlantPlotGAN: A Physics-Informed Generative Adversarial Network for Plant Disease Prediction](https://arxiv.org/abs/2310.18268)
+
 ## Super-Resolution(超分辨率)
 * VSR
   * [Scale-Adaptive Feature Aggregation for Efficient Space-Time Video Super-Resolution](http://arxiv.org/abs/2310.17294v1)
@@ -96,6 +92,7 @@
 * [DTrOCR: Decoder-only Transformer for Optical Character Recognition](https://arxiv.org/abs/2308.15996)
 * Text Spotting
   * [Harnessing the Power of Multi-Lingual Datasets for Pre-training: Towards Enhancing Text Spotting Performance](https://arxiv.org/abs/2310.00917)
+  * [Hierarchical Text Spotter for Joint Text Spotting and Layout Analysis](https://arxiv.org/abs/2310.17674)
 
 ## Reid(人员重识别/步态识别/行人检测)
 * Reid
@@ -136,6 +133,7 @@
 ## Medical Image(医学图像处理)
 * 医学图像分割
   * [G-CASCADE: Efficient Cascaded Graph Convolutional Decoding for 2D Medical Image Segmentation](http://arxiv.org/abs/2310.16175v1)
+  * [SynergyNet: Bridging the Gap between Discrete and Continuous Representations for Precise Medical Image Segmentation](https://arxiv.org/abs/2310.17764)
 * 糖尿病视网膜分类
   * [Generalizing to Unseen Domains in Diabetic Retinopathy Classification](http://arxiv.org/abs/2310.17255v1)
 
