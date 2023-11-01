@@ -20,14 +20,19 @@
 ## [2020 年论文分类汇总戳这里](#0)
 
 
-## 10月30日更新3篇，计41+3篇.
+## 11月1日更新5篇，计44+5篇.
 
 
 ## Biometrics(生物特征识别)
 * [Fingervein Verification using Convolutional Multi-Head Attention Network](http://arxiv.org/abs/2310.16808v1)
 
-##
+## sound(语音)
+* 音频分离  
+  * [LAVSS: Location-Guided Audio-Visual Spatial Audio Separation](https://arxiv.org/abs/2310.20446)
+
+## Transformer
 * [Open-NeRF: Towards Open Vocabulary NeRF Decomposition](http://arxiv.org/abs/2310.16383v1)
+* [Limited Data, Unlimited Potential: A Study on ViTs Augmented by Masked Autoencoders](https://arxiv.org/abs/2310.20704)
 
 ## Lage Language Models
 
@@ -100,6 +105,8 @@
   * [Mitigate Domain Shift by Primary-Auxiliary Objectives Association for Generalizing Person ReID](https://arxiv.org/abs/2310.15913)
 * 行人识别
   * [ShARc: Shape and Appearance Recognition for Person Identification In-the-wild](https://arxiv.org/abs/2310.15946)
+* 行人搜索
+  * [DDAM-PS: Diligent Domain Adaptive Mixer for Person Search](https://arxiv.org/abs/2310.20706)<br>:star:[code](https://github.com/mustansarfiaz/DDAM-PS)
 
 ## UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)
 * 树冠检测
@@ -110,6 +117,7 @@
 
 ## Object Detector(目标检测)
 * [MultIOD: Rehearsal-free Multihead Incremental Object Detector](https://arxiv.org/abs/2309.05334)
+* [Towards Few-Annotation Learning for Object Detection: Are Transformer-based Models More Efficient ?](https://arxiv.org/abs/2310.19936)
 * 开放词汇目标检测
   * [LP-OVOD: Open-Vocabulary Object Detection by Linear Probing](http://arxiv.org/abs/2310.17109v1)<br>:star:[code](https://github.com/VinAIResearch/LP-OVOD)
 
@@ -134,6 +142,7 @@
 * 医学图像分割
   * [G-CASCADE: Efficient Cascaded Graph Convolutional Decoding for 2D Medical Image Segmentation](http://arxiv.org/abs/2310.16175v1)
   * [SynergyNet: Bridging the Gap between Discrete and Continuous Representations for Precise Medical Image Segmentation](https://arxiv.org/abs/2310.17764)
+  * [MIST: Medical Image Segmentation Transformer with Convolutional Attention Mixing (CAM) Decoder](https://arxiv.org/abs/2310.19898)
 * 糖尿病视网膜分类
   * [Generalizing to Unseen Domains in Diabetic Retinopathy Classification](http://arxiv.org/abs/2310.17255v1)
 
