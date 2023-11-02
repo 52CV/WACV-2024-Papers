@@ -18,7 +18,12 @@
 ## [2020 年论文分类汇总戳这里](#0)
 
 
-## 11月1日更新5篇，计44+5篇.
+## 11月2日更新4篇，计49+4篇.
+* [ProcSim: Proxy-based Confidence for Robust Similarity Learning](http://arxiv.org/abs/2311.00668v1)
+* [TPSeNCE: Towards Artifact-Free Realistic Rain Generation for Deraining and Object Detection in Rain](http://arxiv.org/abs/2311.00660v1)<br>:star:[code](https://github.com/ShenZheng2000/TPSeNCE)
+* [Object-centric Video Representation for Long-term Action Anticipation](http://arxiv.org/abs/2311.00180v1)<br>:star:[code](https://github.com/brown-palm/ObjectPrompt)
+* [Adaptive Latent Diffusion Model for 3D Medical Image to Image Translation: Multi-modal Magnetic Resonance Imaging Study](http://arxiv.org/abs/2311.00265v1)
+
 
 ## 目录
 
@@ -54,6 +59,9 @@
     * [Wakening Past Concepts without Past Data: Class-Incremental Learning from Online Placebos](http://arxiv.org/abs/2310.16115v1)<br>:star:[code](https://github.com/yaoyao-liu/online-placebos)
   * CL
     * [Plasticity-Optimized Complementary Networks for Unsupervised Continual Learning](https://arxiv.org/abs/2309.06086)
+* 度量学习
+  * [ProcSim: Proxy-based Confidence for Robust Similarity Learning](http://arxiv.org/abs/2311.00668v1)
+
 
 ## Optical Flow(光流)
 * [Detection Defenses: An Empty Promise against Adversarial Patch Attacks on Optical Flow](http://arxiv.org/abs/2310.17403v1)<br>:star:[code](https://github.com/cv-stuttgart/DetectionDefenses)
@@ -83,6 +91,8 @@
   * [OTAS: Unsupervised Boundary Detection for Object-Centric Temporal Action Segmentation](https://arxiv.org/abs/2309.06276)
 * 动作检测
   * [A Hybrid Graph Network for Complex Activity Detection in Video](http://arxiv.org/abs/2310.17493v1)
+* 动作预测
+  * [Object-centric Video Representation for Long-term Action Anticipation](http://arxiv.org/abs/2311.00180v1)<br>:star:[code](https://github.com/brown-palm/ObjectPrompt)
 
 ## Video
 * 视频时刻检索
@@ -115,6 +125,7 @@
 ## Object Detector(目标检测)
 * [MultIOD: Rehearsal-free Multihead Incremental Object Detector](https://arxiv.org/abs/2309.05334)
 * [Towards Few-Annotation Learning for Object Detection: Are Transformer-based Models More Efficient ?](https://arxiv.org/abs/2310.19936)
+* [TPSeNCE: Towards Artifact-Free Realistic Rain Generation for Deraining and Object Detection in Rain](http://arxiv.org/abs/2311.00660v1)<br>:star:[code](https://github.com/ShenZheng2000/TPSeNCE)
 * 开放词汇目标检测
   * [LP-OVOD: Open-Vocabulary Object Detection by Linear Probing](http://arxiv.org/abs/2310.17109v1)<br>:star:[code](https://github.com/VinAIResearch/LP-OVOD)
 
@@ -142,6 +153,8 @@
   * [MIST: Medical Image Segmentation Transformer with Convolutional Attention Mixing (CAM) Decoder](https://arxiv.org/abs/2310.19898)
 * 糖尿病视网膜分类
   * [Generalizing to Unseen Domains in Diabetic Retinopathy Classification](http://arxiv.org/abs/2310.17255v1)
+* 3D
+  * [Adaptive Latent Diffusion Model for 3D Medical Image to Image Translation: Multi-modal Magnetic Resonance Imaging Study](http://arxiv.org/abs/2311.00265v1)
 
 ## Image/Video Composition(图像/视频压缩)
 * [Differentiable JPEG: The Devil is in the Details](https://arxiv.org/abs/2309.06978)<br>:star:[code](https://github.com/necla-ml/Diff-JPEG)
