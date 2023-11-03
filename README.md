@@ -18,11 +18,15 @@
 ## [2020 年论文分类汇总戳这里](#0)
 
 
-## 11月2日更新4篇，计49+4篇.
-* [ProcSim: Proxy-based Confidence for Robust Similarity Learning](http://arxiv.org/abs/2311.00668v1)
-* [TPSeNCE: Towards Artifact-Free Realistic Rain Generation for Deraining and Object Detection in Rain](http://arxiv.org/abs/2311.00660v1)<br>:star:[code](https://github.com/ShenZheng2000/TPSeNCE)
-* [Object-centric Video Representation for Long-term Action Anticipation](http://arxiv.org/abs/2311.00180v1)<br>:star:[code](https://github.com/brown-palm/ObjectPrompt)
-* [Adaptive Latent Diffusion Model for 3D Medical Image to Image Translation: Multi-modal Magnetic Resonance Imaging Study](http://arxiv.org/abs/2311.00265v1)
+## 11月3日更新8篇，计53+8篇.
+* [Robust Feature Learning and Global Variance-Driven Classifier Alignment for Long-Tail Class Incremental Learning](http://arxiv.org/abs/2311.01227v1)
+* [Cheating Depth: Enhancing 3D Surface Anomaly Detection via Depth Simulation](http://arxiv.org/abs/2311.01117v1)
+* [Learning to Adapt CLIP for Few-Shot Monocular Depth Estimation](http://arxiv.org/abs/2311.01034v1)
+* [Expanding Expressiveness of Diffusion Models with Limited Data via Self-Distillation based Fine-Tuning](http://arxiv.org/abs/2311.01018v1)
+* [LaughTalk: Expressive 3D Talking Head Generation with Laughter](http://arxiv.org/abs/2311.00994v1)
+* [RPCANet: Deep Unfolding RPCA Based Infrared Small Target Detection](http://arxiv.org/abs/2311.00917v1)
+* [On Manipulating Scene Text in the Wild with Diffusion Models](http://arxiv.org/abs/2311.00734v1)
+* [Dynamic Multimodal Information Bottleneck for Multimodality Classification](http://arxiv.org/abs/2311.01066v1)<br>:star:[code](https://github.com/BII-wushuang/DMIB)
 
 
 ## 目录
@@ -44,6 +48,11 @@
 
 ## Lage Language Models
 
+## Anomaly Detection
+* [Cheating Depth: Enhancing 3D Surface Anomaly Detection via Depth Simulation](http://arxiv.org/abs/2311.01117v1)
+
+## Multimodal
+* [Dynamic Multimodal Information Bottleneck for Multimodality Classification](http://arxiv.org/abs/2311.01066v1)<br>:star:[code](https://github.com/BII-wushuang/DMIB)
 
 ## Semi-supervised learning
 * 半监督学习
@@ -57,6 +66,7 @@
 * 持续学习/增量学习
   * 类增量
     * [Wakening Past Concepts without Past Data: Class-Incremental Learning from Online Placebos](http://arxiv.org/abs/2310.16115v1)<br>:star:[code](https://github.com/yaoyao-liu/online-placebos)
+    * [Robust Feature Learning and Global Variance-Driven Classifier Alignment for Long-Tail Class Incremental Learning](http://arxiv.org/abs/2311.01227v1)
   * CL
     * [Plasticity-Optimized Complementary Networks for Unsupervised Continual Learning](https://arxiv.org/abs/2309.06086)
 * 度量学习
@@ -65,6 +75,9 @@
 
 ## Optical Flow(光流)
 * [Detection Defenses: An Empty Promise against Adversarial Patch Attacks on Optical Flow](http://arxiv.org/abs/2310.17403v1)<br>:star:[code](https://github.com/cv-stuttgart/DetectionDefenses)
+
+## 生成
+* [Expanding Expressiveness of Diffusion Models with Limited Data via Self-Distillation based Fine-Tuning](http://arxiv.org/abs/2311.01018v1)
 
 ## Vision-Language(视觉语言)
 * [Towards Addressing the Misalignment of Object Proposal Evaluation for Vision-Language Tasks via Semantic Grounding](https://arxiv.org/abs/2309.00215)
@@ -102,6 +115,7 @@
 
 ## OCR(文本检测识别)
 * [DTrOCR: Decoder-only Transformer for Optical Character Recognition](https://arxiv.org/abs/2308.15996)
+* [On Manipulating Scene Text in the Wild with Diffusion Models](http://arxiv.org/abs/2311.00734v1)
 * Text Spotting
   * [Harnessing the Power of Multi-Lingual Datasets for Pre-training: Towards Enhancing Text Spotting Performance](https://arxiv.org/abs/2310.00917)
   * [Hierarchical Text Spotter for Joint Text Spotting and Layout Analysis](https://arxiv.org/abs/2310.17674)
@@ -128,6 +142,9 @@
 * [TPSeNCE: Towards Artifact-Free Realistic Rain Generation for Deraining and Object Detection in Rain](http://arxiv.org/abs/2311.00660v1)<br>:star:[code](https://github.com/ShenZheng2000/TPSeNCE)
 * 开放词汇目标检测
   * [LP-OVOD: Open-Vocabulary Object Detection by Linear Probing](http://arxiv.org/abs/2310.17109v1)<br>:star:[code](https://github.com/VinAIResearch/LP-OVOD)
+* 小目标检测
+  * [RPCANet: Deep Unfolding RPCA Based Infrared Small Target Detection](http://arxiv.org/abs/2311.00917v1)
+
 
 ## Image Segmentation(图像分割)
 * [Robust Source-Free Domain Adaptation for Fundus Image Segmentation](http://arxiv.org/abs/2310.16665v1)<br>:star:[code](https://github.com/LinGrayy/PLPB)
@@ -141,10 +158,13 @@
 ## Face(人脸技术)
 * FPAD
   * [Face Presentation Attack Detection by Excavating Causal Clues and Adapting Embedding Statistics](https://arxiv.org/abs/2308.14551)<br>:star:[code](https://github.com/meilfang/CF-PAD)
+* 说话头
+  * [LaughTalk: Expressive 3D Talking Head Generation with Laughter](http://arxiv.org/abs/2311.00994v1)
 
 ## 3D(三维重建\三维视觉)
 * 深度估计
   * [Semi-Supervised Semantic Depth Estimation using Symbiotic Transformer and NearFarMix Augmentation](https://arxiv.org/abs/2308.14400)
+  * [Learning to Adapt CLIP for Few-Shot Monocular Depth Estimation](http://arxiv.org/abs/2311.01034v1)
 
 ## Medical Image(医学图像处理)
 * 医学图像分割
