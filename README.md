@@ -18,15 +18,10 @@
 ## [2020 年论文分类汇总戳这里](#0)
 
 
-## 11月3日更新8篇，计53+8篇.
-* [Robust Feature Learning and Global Variance-Driven Classifier Alignment for Long-Tail Class Incremental Learning](http://arxiv.org/abs/2311.01227v1)
-* [Cheating Depth: Enhancing 3D Surface Anomaly Detection via Depth Simulation](http://arxiv.org/abs/2311.01117v1)
-* [Learning to Adapt CLIP for Few-Shot Monocular Depth Estimation](http://arxiv.org/abs/2311.01034v1)
-* [Expanding Expressiveness of Diffusion Models with Limited Data via Self-Distillation based Fine-Tuning](http://arxiv.org/abs/2311.01018v1)
-* [LaughTalk: Expressive 3D Talking Head Generation with Laughter](http://arxiv.org/abs/2311.00994v1)
-* [RPCANet: Deep Unfolding RPCA Based Infrared Small Target Detection](http://arxiv.org/abs/2311.00917v1)
-* [On Manipulating Scene Text in the Wild with Diffusion Models](http://arxiv.org/abs/2311.00734v1)
-* [Dynamic Multimodal Information Bottleneck for Multimodality Classification](http://arxiv.org/abs/2311.01066v1)<br>:star:[code](https://github.com/BII-wushuang/DMIB)
+## 11月6日更新3篇，计61+3篇.
+* [ProS: Facial Omni-Representation Learning via Prototype-based Self-Distillation](http://arxiv.org/abs/2311.01929v1)
+* [Bridging the Gap between Multi-focus and Multi-modal: A Focused Integration Framework for Multi-modal Image Fusion](http://arxiv.org/abs/2311.01886v1)<br>:star:[code](https://github.com/ixilai/MFIF-MMIF)
+* [Improving Fairness using Vision-Language Driven Image Augmentation](http://arxiv.org/abs/2311.01573v1)<br>:star:[code](https://github.com/Moreno98/Vision-Language-Bias-Control)
 
 
 ## 目录
@@ -50,6 +45,10 @@
 
 ## Anomaly Detection
 * [Cheating Depth: Enhancing 3D Surface Anomaly Detection via Depth Simulation](http://arxiv.org/abs/2311.01117v1)
+
+
+## Image Fusion(图像融合)
+* [Bridging the Gap between Multi-focus and Multi-modal: A Focused Integration Framework for Multi-modal Image Fusion](http://arxiv.org/abs/2311.01886v1)<br>:star:[code](https://github.com/ixilai/MFIF-MMIF)
 
 ## Multimodal
 * [Dynamic Multimodal Information Bottleneck for Multimodality Classification](http://arxiv.org/abs/2311.01066v1)<br>:star:[code](https://github.com/BII-wushuang/DMIB)
@@ -156,6 +155,8 @@
     * [Small Objects Matters in Weakly-supervised Semantic Segmentation](https://arxiv.org/abs/2309.14117)
 
 ## Face(人脸技术)
+* [ProS: Facial Omni-Representation Learning via Prototype-based Self-Distillation](http://arxiv.org/abs/2311.01929v1)
+* [Improving Fairness using Vision-Language Driven Image Augmentation](http://arxiv.org/abs/2311.01573v1)<br>:star:[code](https://github.com/Moreno98/Vision-Language-Bias-Control)
 * FPAD
   * [Face Presentation Attack Detection by Excavating Causal Clues and Adapting Embedding Statistics](https://arxiv.org/abs/2308.14551)<br>:star:[code](https://github.com/meilfang/CF-PAD)
 * 说话头
