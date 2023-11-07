@@ -115,7 +115,7 @@
 * 视觉对话
   * [VD-GR: Boosting Visual Dialog with Cascaded Spatial-Temporal Multi-Modal GRaphs](http://arxiv.org/abs/2310.16590v1)
 
-##
+## SLAM/Augmented Reality/Virtual Reality/Robotics(增强/虚拟现实/机器人)
 * 虚拟试穿
   * [A Generative Multi-Resolution Pyramid and Normal-Conditioning 3D Cloth Draping](http://arxiv.org/abs/2311.02700v1)
 
