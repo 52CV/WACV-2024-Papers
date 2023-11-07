@@ -18,10 +18,22 @@
 ## [2020 年论文分类汇总戳这里](#0)
 
 
-## 11月6日更新3篇，计61+3篇.
-* [ProS: Facial Omni-Representation Learning via Prototype-based Self-Distillation](http://arxiv.org/abs/2311.01929v1)
-* [Bridging the Gap between Multi-focus and Multi-modal: A Focused Integration Framework for Multi-modal Image Fusion](http://arxiv.org/abs/2311.01886v1)<br>:star:[code](https://github.com/ixilai/MFIF-MMIF)
-* [Improving Fairness using Vision-Language Driven Image Augmentation](http://arxiv.org/abs/2311.01573v1)<br>:star:[code](https://github.com/Moreno98/Vision-Language-Bias-Control)
+## 11月7日更新15篇，计64+15篇.
+* [TAMPAR: Visual Tampering Detection for Parcel Logistics in Postal Supply Chains](http://arxiv.org/abs/2311.03124v1)<br>:star:[code](https://a-nau.github.io/tampar)
+* [GTP-ViT: Efficient Vision Transformers via Graph-based Token Propagation](http://arxiv.org/abs/2311.03035v1)<br>:star:[code](https://github.com/Ackesnal/GTP-ViT)
+* [Attention Modules Improve Image-Level Anomaly Detection for Industrial Inspection: A DifferNet Case Study](http://arxiv.org/abs/2311.02747v1)
+* [ISAR: A Benchmark for Single- and Few-Shot Object Instance Segmentation and Re-Identification](http://arxiv.org/abs/2311.02734v1)
+* [A Generative Multi-Resolution Pyramid and Normal-Conditioning 3D Cloth Draping](http://arxiv.org/abs/2311.02700v1)
+* [CCMR: High Resolution Optical Flow Estimation via Coarse-to-Fine Context-Guided Motion Reasoning](http://arxiv.org/abs/2311.02661v1)<br>:star:[code](https://github.com/cv-stuttgart)
+* [The Background Also Matters: Background-Aware Motion-Guided Objects Discovery](http://arxiv.org/abs/2311.02633v1)
+* [Learning Class and Domain Augmentations for Single-Source Open-Domain Generalization](http://arxiv.org/abs/2311.02599v1)
+* [3D-Aware Talking-Head Video Motion Transfer](http://arxiv.org/abs/2311.02549v1)
+* [Augment the Pairs: Semantics-Preserving Image-Caption Pair Augmentation for Grounding-Based Vision and Language Models](http://arxiv.org/abs/2311.02536v1)<br>:star:[code](https://github.com/amzn/augment-the-pairs-wacv2024)
+* [P-Age: Pexels Dataset for Robust Spatio-Temporal Apparent Age Classification](http://arxiv.org/abs/2311.02432v1)
+* [Continual Learning of Unsupervised Monocular Depth from Videos](http://arxiv.org/abs/2311.02393v1)
+* [Complex Organ Mask Guided Radiology Report Generation](http://arxiv.org/abs/2311.02329v1)
+* [Lost Your Style? Navigating with Semantic-Level Approach for Text-to-Outfit Retrieval](http://arxiv.org/abs/2311.02122v1)
+* [FATE: Feature-Agnostic Transformer-based Encoder for learning generalized embedding spaces in flow cytometry data](http://arxiv.org/abs/2311.03314v1)<br>:star:[code](https://github.com/lisaweijler/FATE)
 
 
 ## 目录
@@ -37,11 +49,27 @@
 * 音频分离  
   * [LAVSS: Location-Guided Audio-Visual Spatial Audio Separation](https://arxiv.org/abs/2310.20446)
 
-## Transformer
+## Dataset(数据集)
+* [SyntheWorld: A Large-Scale Synthetic Dataset for Land Cover Mapping and Building Change Detection](https://arxiv.org/abs/2309.01907)<br>:sunflower:[dataset](https://github.com/JTRNEO/SyntheWorld)
+* [IndustReal: A Dataset for Procedure Step Recognition Handling Execution Errors in Egocentric Videos in an Industrial-Like Setting](http://arxiv.org/abs/2310.17323v1)<br>:star:[code](https://github.com/TimSchoonbeek/IndustReal)
+* 基准
+  * [ISAR: A Benchmark for Single- and Few-Shot Object Instance Segmentation and Re-Identification](http://arxiv.org/abs/2311.02734v1)
+
+
+## Vision Transformers
 * [Open-NeRF: Towards Open Vocabulary NeRF Decomposition](http://arxiv.org/abs/2310.16383v1)
 * [Limited Data, Unlimited Potential: A Study on ViTs Augmented by Masked Autoencoders](https://arxiv.org/abs/2310.20704)
+* [GTP-ViT: Efficient Vision Transformers via Graph-based Token Propagation](http://arxiv.org/abs/2311.03035v1)<br>:star:[code](https://github.com/Ackesnal/GTP-ViT)
 
-## Lage Language Models
+
+
+## Visual Tampering Detection(视觉篡改检测)
+* 包裹防伪检测
+  * [TAMPAR: Visual Tampering Detection for Parcel Logistics in Postal Supply Chains](http://arxiv.org/abs/2311.03124v1)<br>:star:[code](https://a-nau.github.io/tampar)
+
+## visual industrial inspection(工业检测)
+* [Attention Modules Improve Image-Level Anomaly Detection for Industrial Inspection: A DifferNet Case Study](http://arxiv.org/abs/2311.02747v1)
+
 
 ## Anomaly Detection
 * [Cheating Depth: Enhancing 3D Surface Anomaly Detection via Depth Simulation](http://arxiv.org/abs/2311.01117v1)
@@ -50,7 +78,7 @@
 ## Image Fusion(图像融合)
 * [Bridging the Gap between Multi-focus and Multi-modal: A Focused Integration Framework for Multi-modal Image Fusion](http://arxiv.org/abs/2311.01886v1)<br>:star:[code](https://github.com/ixilai/MFIF-MMIF)
 
-## Multimodal
+## Multimodal(多模态)
 * [Dynamic Multimodal Information Bottleneck for Multimodality Classification](http://arxiv.org/abs/2311.01066v1)<br>:star:[code](https://github.com/BII-wushuang/DMIB)
 
 ## Semi-supervised learning
@@ -58,8 +86,11 @@
   * [SequenceMatch: Revisiting the design of weak-strong augmentations for Semi-supervised learning](https://arxiv.org/abs/2310.15787)<br>:star:[code](https://github.com/beandkay/SequenceMatch)
   * [Debiasing, calibrating, and improving Semi-supervised Learning performance via simple Ensemble Projector](https://arxiv.org/abs/2310.15764)<br>:star:[code](https://github.com/beandkay/EPASS)
 
-## Few-Shot Learning
-* [Hyperbolic vs Euclidean Embeddings in Few-Shot Learning: Two Sides of the Same Coin](https://arxiv.org/abs/2309.10013)
+## Few/Zero-Shot Learning/Domain Generalization/Adaptation(小/零样本/域泛化/域适应)
+* 小样本学习
+  * [Hyperbolic vs Euclidean Embeddings in Few-Shot Learning: Two Sides of the Same Coin](https://arxiv.org/abs/2309.10013)
+* DG
+  * [Learning Class and Domain Augmentations for Single-Source Open-Domain Generalization](http://arxiv.org/abs/2311.02599v1)
 
 ## Machine Learning(机器学习)
 * 持续学习/增量学习
@@ -72,12 +103,11 @@
   * [ProcSim: Proxy-based Confidence for Robust Similarity Learning](http://arxiv.org/abs/2311.00668v1)
 
 
-## Optical Flow(光流)
+## Optical Flow Estimation(光流估计)
 * [Detection Defenses: An Empty Promise against Adversarial Patch Attacks on Optical Flow](http://arxiv.org/abs/2310.17403v1)<br>:star:[code](https://github.com/cv-stuttgart/DetectionDefenses)
+* [CCMR: High Resolution Optical Flow Estimation via Coarse-to-Fine Context-Guided Motion Reasoning](http://arxiv.org/abs/2311.02661v1)<br>:star:[code](https://github.com/cv-stuttgart)
 
-## 生成
-* [Expanding Expressiveness of Diffusion Models with Limited Data via Self-Distillation based Fine-Tuning](http://arxiv.org/abs/2311.01018v1)
-
+## Lage Language Models
 ## Vision-Language(视觉语言)
 * [Towards Addressing the Misalignment of Object Proposal Evaluation for Vision-Language Tasks via Semantic Grounding](https://arxiv.org/abs/2309.00215)
 
@@ -85,13 +115,16 @@
 * 视觉对话
   * [VD-GR: Boosting Visual Dialog with Cascaded Spatial-Temporal Multi-Modal GRaphs](http://arxiv.org/abs/2310.16590v1)
 
-## Dataset(数据集)
-* [SyntheWorld: A Large-Scale Synthetic Dataset for Land Cover Mapping and Building Change Detection](https://arxiv.org/abs/2309.01907)<br>:sunflower:[dataset](https://github.com/JTRNEO/SyntheWorld)
-* [IndustReal: A Dataset for Procedure Step Recognition Handling Execution Errors in Egocentric Videos in an Industrial-Like Setting](http://arxiv.org/abs/2310.17323v1)<br>:star:[code](https://github.com/TimSchoonbeek/IndustReal)
+##
+* 虚拟试穿
+  * [A Generative Multi-Resolution Pyramid and Normal-Conditioning 3D Cloth Draping](http://arxiv.org/abs/2311.02700v1)
 
-## GAN/
+
+## GAN/生成
 * GAN
   * [PlantPlotGAN: A Physics-Informed Generative Adversarial Network for Plant Disease Prediction](https://arxiv.org/abs/2310.18268)
+* 扩散
+  * [Expanding Expressiveness of Diffusion Models with Limited Data via Self-Distillation based Fine-Tuning](http://arxiv.org/abs/2311.01018v1)
 
 
 ## Object Pose Estimation(物体姿态估计)
@@ -161,24 +194,38 @@
   * [Face Presentation Attack Detection by Excavating Causal Clues and Adapting Embedding Statistics](https://arxiv.org/abs/2308.14551)<br>:star:[code](https://github.com/meilfang/CF-PAD)
 * 说话头
   * [LaughTalk: Expressive 3D Talking Head Generation with Laughter](http://arxiv.org/abs/2311.00994v1)
+  * [3D-Aware Talking-Head Video Motion Transfer](http://arxiv.org/abs/2311.02549v1)
+* 年龄分类
+  * [P-Age: Pexels Dataset for Robust Spatio-Temporal Apparent Age Classification](http://arxiv.org/abs/2311.02432v1)
+
 
 ## 3D(三维重建\三维视觉)
 * 深度估计
   * [Semi-Supervised Semantic Depth Estimation using Symbiotic Transformer and NearFarMix Augmentation](https://arxiv.org/abs/2308.14400)
   * [Learning to Adapt CLIP for Few-Shot Monocular Depth Estimation](http://arxiv.org/abs/2311.01034v1)
+  * [Continual Learning of Unsupervised Monocular Depth from Videos](http://arxiv.org/abs/2311.02393v1)
 
 ## Medical Image(医学图像处理)
+* 3D
+  * [Adaptive Latent Diffusion Model for 3D Medical Image to Image Translation: Multi-modal Magnetic Resonance Imaging Study](http://arxiv.org/abs/2311.00265v1)
+* 报告生成
+  * [Complex Organ Mask Guided Radiology Report Generation](http://arxiv.org/abs/2311.02329v1)
 * 医学图像分割
   * [G-CASCADE: Efficient Cascaded Graph Convolutional Decoding for 2D Medical Image Segmentation](http://arxiv.org/abs/2310.16175v1)
   * [SynergyNet: Bridging the Gap between Discrete and Continuous Representations for Precise Medical Image Segmentation](https://arxiv.org/abs/2310.17764)
   * [MIST: Medical Image Segmentation Transformer with Convolutional Attention Mixing (CAM) Decoder](https://arxiv.org/abs/2310.19898)
 * 糖尿病视网膜分类
   * [Generalizing to Unseen Domains in Diabetic Retinopathy Classification](http://arxiv.org/abs/2310.17255v1)
-* 3D
-  * [Adaptive Latent Diffusion Model for 3D Medical Image to Image Translation: Multi-modal Magnetic Resonance Imaging Study](http://arxiv.org/abs/2311.00265v1)
 
 ## Image/Video Composition(图像/视频压缩)
 * [Differentiable JPEG: The Devil is in the Details](https://arxiv.org/abs/2309.06978)<br>:star:[code](https://github.com/necla-ml/Diff-JPEG)
+
+## Image/Video Caption(图像/视频字幕)
+* [Augment the Pairs: Semantics-Preserving Image-Caption Pair Augmentation for Grounding-Based Vision and Language Models](http://arxiv.org/abs/2311.02536v1)<br>:star:[code](https://github.com/amzn/augment-the-pairs-wacv2024)
+
+## Image/Video Retrieval(图像/视频检索)
+* 文本-穿搭检索(时尚推荐)
+  * [Lost Your Style? Navigating with Semantic-Level Approach for Text-to-Outfit Retrieval](http://arxiv.org/abs/2311.02122v1)
 
 ## Super-Resolution(超分辨率)
 * VSR
@@ -191,6 +238,8 @@
 * [Learning Low-Rank Latent Spaces with Simple Deterministic Autoencoder: Theoretical and Empirical Insights](http://arxiv.org/abs/2310.16194v1)
 * [Learning Robust Deep Visual Representations from EEG Brain Recordings](http://arxiv.org/abs/2310.16532v1)
 * [MACP: Efficient Model Adaptation for Cooperative Perception](http://arxiv.org/abs/2310.16870v1)<br>:star:[code](https://github.com/PurdueDigitalTwin/MACP)
+* [The Background Also Matters: Background-Aware Motion-Guided Objects Discovery](http://arxiv.org/abs/2311.02633v1)
+* [FATE: Feature-Agnostic Transformer-based Encoder for learning generalized embedding spaces in flow cytometry data](http://arxiv.org/abs/2311.03314v1)<br>:star:[code](https://github.com/lisaweijler/FATE)
 
 <a name="0"/>
 
