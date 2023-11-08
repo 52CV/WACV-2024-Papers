@@ -27,11 +27,10 @@
 * [Mini but Mighty: Finetuning ViTs with Mini Adapters](http://arxiv.org/abs/2311.03873v1)
 * [SBCFormer: Lightweight Network Capable of Full-size ImageNet Classification at 1 FPS on Single Board Computers](http://arxiv.org/abs/2311.03747v1)<br>:star:[code](https://github.com/xyongLu/SBCFormer)
 * [Instruct Me More! Random Prompting for Visual In-Context Learning](http://arxiv.org/abs/2311.03648v1)<br>:star:[code](https://github.com/Jackieam/InMeMo)
-* [Sea You Later: Metadata-Guided Long-Term Re-Identification for UAV-Based Multi-Object Tracking](http://arxiv.org/abs/2311.03561v1)
 * [United We Stand, Divided We Fall: UnityGraph for Unsupervised Procedure Learning from Videos](http://arxiv.org/abs/2311.03550v1)
 * [TSP-Transformer: Task-Specific Prompts Boosted Transformer for Holistic Scene Understanding](http://arxiv.org/abs/2311.03427v1)<br>:star:[code](https://github.com/tb2-sy/TSP-Transformer)
 * [CycleCL: Self-supervised Learning for Periodic Videos](http://arxiv.org/abs/2311.03402v1)
-
+* [Enhancing Multimodal Compositional Reasoning of Visual Language Models with Generative Negative Mining](https://arxiv.org/abs/2311.03964)<br>:star:[code](https://github.com/ugorsahin/Generative-Negative-Mining)
 
 
 ## 目录
@@ -122,6 +121,8 @@
 
 ## Multimodal(多模态)
 * [Dynamic Multimodal Information Bottleneck for Multimodality Classification](http://arxiv.org/abs/2311.01066v1)<br>:star:[code](https://github.com/BII-wushuang/DMIB)
+* [Enhancing Multimodal Compositional Reasoning of Visual Language Models with Generative Negative Mining](https://arxiv.org/abs/2311.03964)<br>:star:[code](https://github.com/ugorsahin/Generative-Negative-Mining)
+
 ## Lage Language Models
 ## Vision-Language(视觉语言)
 * [Towards Addressing the Misalignment of Object Proposal Evaluation for Vision-Language Tasks via Semantic Grounding](https://arxiv.org/abs/2309.00215)
@@ -202,8 +203,6 @@
 
 ## 11.Object Tracking(目标跟踪)
 * [Separable Self and Mixed Attention Transformers for Efficient Object Tracking](https://arxiv.org/abs/2309.03979)<br>:star:[code](https://github.com/goutamyg/SMAT)
-* MOT
-  * [Sea You Later: Metadata-Guided Long-Term Re-Identification for UAV-Based Multi-Object Tracking](http://arxiv.org/abs/2311.03561v1)
 
 <a name="10"/>
 
