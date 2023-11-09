@@ -18,19 +18,16 @@
 ## [2020 年论文分类汇总戳这里](#0)
 
 
-## 11月8日更新12篇，计79+12篇.
-* [Can CLIP Help Sound Source Localization?](http://arxiv.org/abs/2311.04066v1)
-* [Bias and Diversity in Synthetic-based Face Recognition](http://arxiv.org/abs/2311.03970v1)
-* [Fast Sun-aligned Outdoor Scene Relighting based on TensoRF](http://arxiv.org/abs/2311.03965v1)
-* [Improving the Effectiveness of Deep Generative Data](http://arxiv.org/abs/2311.03959v1)
-* [FLORA: Fine-grained Low-Rank Architecture Search for Vision Transformer](http://arxiv.org/abs/2311.03912v1)<br>:star:[code](https://github.com/shadowpa0327/FLORA)
-* [Mini but Mighty: Finetuning ViTs with Mini Adapters](http://arxiv.org/abs/2311.03873v1)
-* [SBCFormer: Lightweight Network Capable of Full-size ImageNet Classification at 1 FPS on Single Board Computers](http://arxiv.org/abs/2311.03747v1)<br>:star:[code](https://github.com/xyongLu/SBCFormer)
-* [Instruct Me More! Random Prompting for Visual In-Context Learning](http://arxiv.org/abs/2311.03648v1)<br>:star:[code](https://github.com/Jackieam/InMeMo)
-* [United We Stand, Divided We Fall: UnityGraph for Unsupervised Procedure Learning from Videos](http://arxiv.org/abs/2311.03550v1)
-* [TSP-Transformer: Task-Specific Prompts Boosted Transformer for Holistic Scene Understanding](http://arxiv.org/abs/2311.03427v1)<br>:star:[code](https://github.com/tb2-sy/TSP-Transformer)
-* [CycleCL: Self-supervised Learning for Periodic Videos](http://arxiv.org/abs/2311.03402v1)
-* [Enhancing Multimodal Compositional Reasoning of Visual Language Models with Generative Negative Mining](https://arxiv.org/abs/2311.03964)<br>:star:[code](https://github.com/ugorsahin/Generative-Negative-Mining)
+## 11月9日更新9篇，计91+9篇.
+* [Self-Supervised Learning for Visual Relationship Detection through Masked Bounding Box Reconstruction](http://arxiv.org/abs/2311.04834v1)<br>:star:[code](https://github.com/deeplab-ai/SelfSupervisedVRD)
+* [Weakly-supervised deepfake localization in diffusion-generated images](http://arxiv.org/abs/2311.04584v1)
+* [NITEC: Versatile Hand-Annotated Eye Contact Dataset for Ego-Vision Interaction](http://arxiv.org/abs/2311.04505v1)<br>:star:[code](https://github.com/thohemp/nitec)
+* [Learning the What and How of Annotation in Video Object Segmentation](http://arxiv.org/abs/2311.04414v1)
+* [Efficient Semantic Matching with Hypercolumn Correlation](http://arxiv.org/abs/2311.04336v1)
+* [Toward Planet-Wide Traffic Camera Calibration](http://arxiv.org/abs/2311.04243v1)<br>:house:[project](https://www.khiemvuong.com/OpenTrafficCam3D)
+* [Army of Thieves: Enhancing Black-Box Model Extraction via Ensemble based sample selection](http://arxiv.org/abs/2311.04588v1)
+* [Blurry Video Compression: A Trade-off between Visual Enhancement and Data Compression](http://arxiv.org/abs/2311.04430v1)
+* [MixtureGrowth: Growing Neural Networks by Recombining Learned Parameters](http://arxiv.org/abs/2311.04251v1)<br>:star:[code](https://github.com/chaudatascience/mixturegrowth)
 
 
 ## 目录
@@ -44,8 +41,14 @@
 |[17.Object Pose Estimation(物体姿态估计)](#17)|[18.GAN/生成](#18)|[19.SLAM/AR/VR/Robotics(增强/虚拟现实/机器人)](#19)|[20.VQA(视觉问答)](#20)|
 
 
+## Deepfake
+* [Weakly-supervised deepfake localization in diffusion-generated images](http://arxiv.org/abs/2311.04584v1)
+
 ## Biometrics(生物特征识别)
 * [Fingervein Verification using Convolutional Multi-Head Attention Network](http://arxiv.org/abs/2310.16808v1)
+
+##
+* [NITEC: Versatile Hand-Annotated Eye Contact Dataset for Ego-Vision Interaction](http://arxiv.org/abs/2311.04505v1)<br>:star:[code](https://github.com/thohemp/nitec)
 
 ## sound(语音)
 * 声源定位
@@ -94,7 +97,7 @@
   * [Debiasing, calibrating, and improving Semi-supervised Learning performance via simple Ensemble Projector](https://arxiv.org/abs/2310.15764)<br>:star:[code](https://github.com/beandkay/EPASS)
 * 自监督学习
   * [CycleCL: Self-supervised Learning for Periodic Videos](http://arxiv.org/abs/2311.03402v1)
-
+  * [Self-Supervised Learning for Visual Relationship Detection through Masked Bounding Box Reconstruction](http://arxiv.org/abs/2311.04834v1)<br>:star:[code](https://github.com/deeplab-ai/SelfSupervisedVRD)
 
 ## Few/Zero-Shot Learning/Domain Generalization/Adaptation(小/零样本/域泛化/域适应)
 * 小样本学习
@@ -111,6 +114,8 @@
     * [Plasticity-Optimized Complementary Networks for Unsupervised Continual Learning](https://arxiv.org/abs/2309.06086)
 * 度量学习
   * [ProcSim: Proxy-based Confidence for Robust Similarity Learning](http://arxiv.org/abs/2311.00668v1)
+* 对抗学习
+  * [Army of Thieves: Enhancing Black-Box Model Extraction via Ensemble based sample selection](http://arxiv.org/abs/2311.04588v1)
 
 ## NAS
 * [FLORA: Fine-grained Low-Rank Architecture Search for Vision Transformer](http://arxiv.org/abs/2311.03912v1)<br>:star:[code](https://github.com/shadowpa0327/FLORA)
@@ -227,6 +232,9 @@
     * [Small Objects Matters in Weakly-supervised Semantic Segmentation](https://arxiv.org/abs/2309.14117)
 * 场景理解
   * [TSP-Transformer: Task-Specific Prompts Boosted Transformer for Holistic Scene Understanding](http://arxiv.org/abs/2311.03427v1)<br>:star:[code](https://github.com/tb2-sy/TSP-Transformer)
+* VOS
+  * [Learning the What and How of Annotation in Video Object Segmentation](http://arxiv.org/abs/2311.04414v1)
+
 
 <a name="8"/>
 
@@ -250,6 +258,8 @@
   * [Semi-Supervised Semantic Depth Estimation using Symbiotic Transformer and NearFarMix Augmentation](https://arxiv.org/abs/2308.14400)
   * [Learning to Adapt CLIP for Few-Shot Monocular Depth Estimation](http://arxiv.org/abs/2311.01034v1)
   * [Continual Learning of Unsupervised Monocular Depth from Videos](http://arxiv.org/abs/2311.02393v1)
+* 三维重建
+  * [Toward Planet-Wide Traffic Camera Calibration](http://arxiv.org/abs/2311.04243v1)<br>:house:[project](https://www.khiemvuong.com/OpenTrafficCam3D)
 
 <a name="6"/>
 
@@ -269,6 +279,8 @@
 
 ## 5.Image/Video Composition(图像/视频压缩)
 * [Differentiable JPEG: The Devil is in the Details](https://arxiv.org/abs/2309.06978)<br>:star:[code](https://github.com/necla-ml/Diff-JPEG)
+* VC
+  * [Blurry Video Compression: A Trade-off between Visual Enhancement and Data Compression](http://arxiv.org/abs/2311.04430v1)
 
 <a name="4"/>
 
@@ -299,6 +311,8 @@
 * [FATE: Feature-Agnostic Transformer-based Encoder for learning generalized embedding spaces in flow cytometry data](http://arxiv.org/abs/2311.03314v1)<br>:star:[code](https://github.com/lisaweijler/FATE)
 * [Instruct Me More! Random Prompting for Visual In-Context Learning](http://arxiv.org/abs/2311.03648v1)<br>:star:[code](https://github.com/Jackieam/InMeMo)
 * [Mini but Mighty: Finetuning ViTs with Mini Adapters](http://arxiv.org/abs/2311.03873v1)
+* [Efficient Semantic Matching with Hypercolumn Correlation](http://arxiv.org/abs/2311.04336v1)
+* [MixtureGrowth: Growing Neural Networks by Recombining Learned Parameters](http://arxiv.org/abs/2311.04251v1)<br>:star:[code](https://github.com/chaudatascience/mixturegrowth)
 
 
 <a name="0"/>
