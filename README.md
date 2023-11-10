@@ -18,16 +18,12 @@
 ## [2020 年论文分类汇总戳这里](#0)
 
 
-## 11月9日更新9篇，计91+9篇.
-* [Self-Supervised Learning for Visual Relationship Detection through Masked Bounding Box Reconstruction](http://arxiv.org/abs/2311.04834v1)<br>:star:[code](https://github.com/deeplab-ai/SelfSupervisedVRD)
-* [Weakly-supervised deepfake localization in diffusion-generated images](http://arxiv.org/abs/2311.04584v1)
-* [NITEC: Versatile Hand-Annotated Eye Contact Dataset for Ego-Vision Interaction](http://arxiv.org/abs/2311.04505v1)<br>:star:[code](https://github.com/thohemp/nitec)
-* [Learning the What and How of Annotation in Video Object Segmentation](http://arxiv.org/abs/2311.04414v1)
-* [Efficient Semantic Matching with Hypercolumn Correlation](http://arxiv.org/abs/2311.04336v1)
-* [Toward Planet-Wide Traffic Camera Calibration](http://arxiv.org/abs/2311.04243v1)<br>:house:[project](https://www.khiemvuong.com/OpenTrafficCam3D)
-* [Army of Thieves: Enhancing Black-Box Model Extraction via Ensemble based sample selection](http://arxiv.org/abs/2311.04588v1)
-* [Blurry Video Compression: A Trade-off between Visual Enhancement and Data Compression](http://arxiv.org/abs/2311.04430v1)
-* [MixtureGrowth: Growing Neural Networks by Recombining Learned Parameters](http://arxiv.org/abs/2311.04251v1)<br>:star:[code](https://github.com/chaudatascience/mixturegrowth)
+## 11月9日更新5篇，计100+5篇.
+* [Reducing the Side-Effects of Oscillations in Training of Quantized YOLO Networks](http://arxiv.org/abs/2311.05109v1)
+* [Active Transfer Learning for Efficient Video-Specific Human Pose Estimation](http://arxiv.org/abs/2311.05041v1)<br>:star:[code](https://github.com/ImIntheMiddle/VATL4Pose-WACV2024)
+* [S$^3$AD: Semi-supervised Small Apple Detection in Orchard Environments](http://arxiv.org/abs/2311.05029v1)<br>:house:[project](http://www.inf.uni-hamburg.de/mad)
+* [GC-VTON: Predicting Globally Consistent and Occlusion Aware Local Flows with Neighborhood Integrity Preservation for Virtual Try-on](http://arxiv.org/abs/2311.04932v1)
+* [Effective Restoration of Source Knowledge in Continual Test Time Adaptation](http://arxiv.org/abs/2311.04991v1)
 
 
 ## 目录
@@ -38,7 +34,7 @@
 |[5.Image/Video Composition(图像/视频压缩)](#5)|[6.Medical Image(医学图像处理)](#6)|[7.3D(三维重建\三维视觉)](#7)|[8.Face(人脸技术)](#8)|
 |[9.Image Segmentation(图像分割)](#9)|[10.Object Detector(目标检测)](#10)|[11.Object Tracking(目标跟踪)](#11)|[12.UAV/RS/Satellite Image(无人机/遥感/卫星图像)](#12)|
 |[13.Reid(人员重识别/步态识别/行人检测)](#13)|[14.OCR(文本检测识别)](#14)|[15.Video](#15)|[16.Action Detection(动作检测)](#16)|
-|[17.Object Pose Estimation(物体姿态估计)](#17)|[18.GAN/生成](#18)|[19.SLAM/AR/VR/Robotics(增强/虚拟现实/机器人)](#19)|[20.VQA(视觉问答)](#20)|
+|[17.Human Pose Estimation(人体姿态估计)](#17)|[18.GAN/生成](#18)|[19.SLAM/AR/VR/Robotics(增强/虚拟现实/机器人)](#19)|[20.VQA(视觉问答)](#20)|
 
 
 ## Deepfake
@@ -117,6 +113,11 @@
 * 对抗学习
   * [Army of Thieves: Enhancing Black-Box Model Extraction via Ensemble based sample selection](http://arxiv.org/abs/2311.04588v1)
 
+
+## Model Compression/Knowledge Distillation/Pruning(模型压缩/知识蒸馏/剪枝)
+* 量化
+  * [Reducing the Side-Effects of Oscillations in Training of Quantized YOLO Networks](http://arxiv.org/abs/2311.05109v1)
+
 ## NAS
 * [FLORA: Fine-grained Low-Rank Architecture Search for Vision Transformer](http://arxiv.org/abs/2311.03912v1)<br>:star:[code](https://github.com/shadowpa0327/FLORA)
 
@@ -127,6 +128,10 @@
 ## Multimodal(多模态)
 * [Dynamic Multimodal Information Bottleneck for Multimodality Classification](http://arxiv.org/abs/2311.01066v1)<br>:star:[code](https://github.com/BII-wushuang/DMIB)
 * [Enhancing Multimodal Compositional Reasoning of Visual Language Models with Generative Negative Mining](https://arxiv.org/abs/2311.03964)<br>:star:[code](https://github.com/ugorsahin/Generative-Negative-Mining)
+
+Object Pose Estimation(物体姿态估计)
+* 6-DoF
+  * [Real-time 6-DoF Pose Estimation by an Event-based Camera using Active LED Markers](http://arxiv.org/abs/2310.16618v1)
 
 ## Lage Language Models
 ## Vision-Language(视觉语言)
@@ -143,6 +148,7 @@
 ## 19.SLAM/Augmented Reality/Virtual Reality/Robotics(增强/虚拟现实/机器人)
 * 虚拟试穿
   * [A Generative Multi-Resolution Pyramid and Normal-Conditioning 3D Cloth Draping](http://arxiv.org/abs/2311.02700v1)
+  * [GC-VTON: Predicting Globally Consistent and Occlusion Aware Local Flows with Neighborhood Integrity Preservation for Virtual Try-on](http://arxiv.org/abs/2311.04932v1)
 
 <a name="18"/>
 
@@ -156,9 +162,8 @@
 
 <a name="17"/>
 
-## 17.Object Pose Estimation(物体姿态估计)
-* 6-DoF
-  * [Real-time 6-DoF Pose Estimation by an Event-based Camera using Active LED Markers](http://arxiv.org/abs/2310.16618v1)
+## 17.Human Pose Estimation
+* [Active Transfer Learning for Efficient Video-Specific Human Pose Estimation](http://arxiv.org/abs/2311.05041v1)<br>:star:[code](https://github.com/ImIntheMiddle/VATL4Pose-WACV2024)
 
 <a name="16"/>
 
@@ -203,6 +208,8 @@
 ## 12.UAV/Remote Sensing/Satellite Image(无人机/遥感/卫星图像)
 * 树冠检测
   * [ShadowSense: Unsupervised Domain Adaptation and Feature Fusion for Shadow-Agnostic Tree Crown Detection from RGB-Thermal Drone Imagery](http://arxiv.org/abs/2310.16212v1)<br>:star:[code](https://github.com/rudrakshkapil/ShadowSense)<br>:star:[code](https://github.com/rudrakshkapil/ShadowSense)
+* 变化检测
+  * [Effective Restoration of Source Knowledge in Continual Test Time Adaptation](http://arxiv.org/abs/2311.04991v1)
 
 <a name="11"/>
 
@@ -219,6 +226,7 @@
   * [LP-OVOD: Open-Vocabulary Object Detection by Linear Probing](http://arxiv.org/abs/2310.17109v1)<br>:star:[code](https://github.com/VinAIResearch/LP-OVOD)
 * 小目标检测
   * [RPCANet: Deep Unfolding RPCA Based Infrared Small Target Detection](http://arxiv.org/abs/2311.00917v1)
+  * [S$^3$AD: Semi-supervised Small Apple Detection in Orchard Environments](http://arxiv.org/abs/2311.05029v1)<br>:house:[project](http://www.inf.uni-hamburg.de/mad)
 
 <a name="9"/>
 
