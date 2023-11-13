@@ -18,12 +18,17 @@
 ## [2020 年论文分类汇总戳这里](#0)
 
 
-## 11月9日更新5篇，计100+5篇.
-* [Reducing the Side-Effects of Oscillations in Training of Quantized YOLO Networks](http://arxiv.org/abs/2311.05109v1)
-* [Active Transfer Learning for Efficient Video-Specific Human Pose Estimation](http://arxiv.org/abs/2311.05041v1)<br>:star:[code](https://github.com/ImIntheMiddle/VATL4Pose-WACV2024)
-* [S$^3$AD: Semi-supervised Small Apple Detection in Orchard Environments](http://arxiv.org/abs/2311.05029v1)<br>:house:[project](http://www.inf.uni-hamburg.de/mad)
-* [GC-VTON: Predicting Globally Consistent and Occlusion Aware Local Flows with Neighborhood Integrity Preservation for Virtual Try-on](http://arxiv.org/abs/2311.04932v1)
-* [Effective Restoration of Source Knowledge in Continual Test Time Adaptation](http://arxiv.org/abs/2311.04991v1)
+## 11月13日更新9篇，计105+9篇.
+* [Semantic-aware Video Representation for Few-shot Action Recognition](http://arxiv.org/abs/2311.06218v1)
+* [MonoProb: Self-Supervised Monocular Depth Estimation with Interpretable Uncertainty](http://arxiv.org/abs/2311.06137v1)<br>:star:[code](https://github.com/CEA-LIST/MonoProb)
+* [U3DS$^3$: Unsupervised 3D Semantic Scene Segmentation](http://arxiv.org/abs/2311.06018v1)
+* [Automated Sperm Assessment Framework and Neural Network Specialized for Sperm Video Recognition](http://arxiv.org/abs/2311.05927v1)
+* [PolyMaX: General Dense Prediction with Mask Transformer](http://arxiv.org/abs/2311.05770v1)
+* [GIPCOL: Graph-Injected Soft Prompting for Compositional Zero-Shot Learning](http://arxiv.org/abs/2311.05729v1)
+* [OmniVec: Learning robust representations with cross modal sharing](http://arxiv.org/abs/2311.05709v1)
+* [Layer-wise Auto-Weighting for Non-Stationary Test-Time Adaptation](http://arxiv.org/abs/2311.05858v1)
+* [A Neural Height-Map Approach for the Binocular Photometric Stereo Problem](https://arxiv.org/abs/2311.05958)
+
 
 
 ## 目录
@@ -68,6 +73,9 @@
 * [SBCFormer: Lightweight Network Capable of Full-size ImageNet Classification at 1 FPS on Single Board Computers](http://arxiv.org/abs/2311.03747v1)<br>:star:[code](https://github.com/xyongLu/SBCFormer)
 
 
+## Dense Prediction(密集预测)
+* [PolyMaX: General Dense Prediction with Mask Transformer](http://arxiv.org/abs/2311.05770v1)
+
 ## Visual Tampering Detection(视觉篡改检测)
 * 包裹防伪检测
   * [TAMPAR: Visual Tampering Detection for Parcel Logistics in Postal Supply Chains](http://arxiv.org/abs/2311.03124v1)<br>:star:[code](https://a-nau.github.io/tampar)
@@ -96,6 +104,8 @@
   * [Self-Supervised Learning for Visual Relationship Detection through Masked Bounding Box Reconstruction](http://arxiv.org/abs/2311.04834v1)<br>:star:[code](https://github.com/deeplab-ai/SelfSupervisedVRD)
 
 ## Few/Zero-Shot Learning/Domain Generalization/Adaptation(小/零样本/域泛化/域适应)
+* 零样本学习
+  * [GIPCOL: Graph-Injected Soft Prompting for Compositional Zero-Shot Learning](http://arxiv.org/abs/2311.05729v1)
 * 小样本学习
   * [Hyperbolic vs Euclidean Embeddings in Few-Shot Learning: Two Sides of the Same Coin](https://arxiv.org/abs/2309.10013)
 * DG
@@ -128,8 +138,9 @@
 ## Multimodal(多模态)
 * [Dynamic Multimodal Information Bottleneck for Multimodality Classification](http://arxiv.org/abs/2311.01066v1)<br>:star:[code](https://github.com/BII-wushuang/DMIB)
 * [Enhancing Multimodal Compositional Reasoning of Visual Language Models with Generative Negative Mining](https://arxiv.org/abs/2311.03964)<br>:star:[code](https://github.com/ugorsahin/Generative-Negative-Mining)
+* [OmniVec: Learning robust representations with cross modal sharing](http://arxiv.org/abs/2311.05709v1)
 
-Object Pose Estimation(物体姿态估计)
+## Object Pose Estimation(物体姿态估计)
 * 6-DoF
   * [Real-time 6-DoF Pose Estimation by an Event-based Camera using Active LED Markers](http://arxiv.org/abs/2310.16618v1)
 
@@ -168,6 +179,8 @@ Object Pose Estimation(物体姿态估计)
 <a name="16"/>
 
 ## 16.Action Detection(动作检测)
+* 小样本动作检测
+  * [Semantic-aware Video Representation for Few-shot Action Recognition](http://arxiv.org/abs/2311.06218v1)
 * 时序动作分割
   * [OTAS: Unsupervised Boundary Detection for Object-Centric Temporal Action Segmentation](https://arxiv.org/abs/2309.06276)
 * 动作检测
@@ -178,6 +191,8 @@ Object Pose Estimation(物体姿态估计)
 <a name="15"/>
 
 ## 15.Video
+* 视频识别
+  * [Automated Sperm Assessment Framework and Neural Network Specialized for Sperm Video Recognition](http://arxiv.org/abs/2311.05927v1)
 * 视频时刻检索
   * [Zero-Shot Video Moment Retrieval from Frozen Vision-Language Models](https://arxiv.org/abs/2309.00661)
 * VAD
@@ -240,6 +255,8 @@ Object Pose Estimation(物体姿态估计)
     * [Small Objects Matters in Weakly-supervised Semantic Segmentation](https://arxiv.org/abs/2309.14117)
 * 场景理解
   * [TSP-Transformer: Task-Specific Prompts Boosted Transformer for Holistic Scene Understanding](http://arxiv.org/abs/2311.03427v1)<br>:star:[code](https://github.com/tb2-sy/TSP-Transformer)
+* 语义场景分割
+  * [U3DS$^3$: Unsupervised 3D Semantic Scene Segmentation](http://arxiv.org/abs/2311.06018v1)
 * VOS
   * [Learning the What and How of Annotation in Video Object Segmentation](http://arxiv.org/abs/2311.04414v1)
 
@@ -266,6 +283,7 @@ Object Pose Estimation(物体姿态估计)
   * [Semi-Supervised Semantic Depth Estimation using Symbiotic Transformer and NearFarMix Augmentation](https://arxiv.org/abs/2308.14400)
   * [Learning to Adapt CLIP for Few-Shot Monocular Depth Estimation](http://arxiv.org/abs/2311.01034v1)
   * [Continual Learning of Unsupervised Monocular Depth from Videos](http://arxiv.org/abs/2311.02393v1)
+  * [MonoProb: Self-Supervised Monocular Depth Estimation with Interpretable Uncertainty](http://arxiv.org/abs/2311.06137v1)<br>:star:[code](https://github.com/CEA-LIST/MonoProb)
 * 三维重建
   * [Toward Planet-Wide Traffic Camera Calibration](http://arxiv.org/abs/2311.04243v1)<br>:house:[project](https://www.khiemvuong.com/OpenTrafficCam3D)
 
@@ -321,6 +339,8 @@ Object Pose Estimation(物体姿态估计)
 * [Mini but Mighty: Finetuning ViTs with Mini Adapters](http://arxiv.org/abs/2311.03873v1)
 * [Efficient Semantic Matching with Hypercolumn Correlation](http://arxiv.org/abs/2311.04336v1)
 * [MixtureGrowth: Growing Neural Networks by Recombining Learned Parameters](http://arxiv.org/abs/2311.04251v1)<br>:star:[code](https://github.com/chaudatascience/mixturegrowth)
+* [Layer-wise Auto-Weighting for Non-Stationary Test-Time Adaptation](http://arxiv.org/abs/2311.05858v1)
+* [A Neural Height-Map Approach for the Binocular Photometric Stereo Problem](https://arxiv.org/abs/2311.05958)
 
 
 <a name="0"/>
