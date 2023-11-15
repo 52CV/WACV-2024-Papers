@@ -18,16 +18,14 @@
 ## [2020 年论文分类汇总戳这里](#0)
 
 
-## 11月13日更新9篇，计105+9篇.
-* [Semantic-aware Video Representation for Few-shot Action Recognition](http://arxiv.org/abs/2311.06218v1)
-* [MonoProb: Self-Supervised Monocular Depth Estimation with Interpretable Uncertainty](http://arxiv.org/abs/2311.06137v1)<br>:star:[code](https://github.com/CEA-LIST/MonoProb)
-* [U3DS$^3$: Unsupervised 3D Semantic Scene Segmentation](http://arxiv.org/abs/2311.06018v1)
-* [Automated Sperm Assessment Framework and Neural Network Specialized for Sperm Video Recognition](http://arxiv.org/abs/2311.05927v1)
-* [PolyMaX: General Dense Prediction with Mask Transformer](http://arxiv.org/abs/2311.05770v1)
-* [GIPCOL: Graph-Injected Soft Prompting for Compositional Zero-Shot Learning](http://arxiv.org/abs/2311.05729v1)
-* [OmniVec: Learning robust representations with cross modal sharing](http://arxiv.org/abs/2311.05709v1)
-* [Layer-wise Auto-Weighting for Non-Stationary Test-Time Adaptation](http://arxiv.org/abs/2311.05858v1)
-* [A Neural Height-Map Approach for the Binocular Photometric Stereo Problem](https://arxiv.org/abs/2311.05958)
+## 11月14，15日更新7篇，计114+7篇.
+* [Registered and Segmented Deformable Object Reconstruction from a Single View Point Cloud](http://arxiv.org/abs/2311.07357v1)
+* [Unsupervised and semi-supervised co-salient object detection via segmentation frequency statistics](http://arxiv.org/abs/2311.06654v1)
+* [CrashCar101: Procedural Generation for Damage Assessment](http://arxiv.org/abs/2311.06536v1)
+* [CVTHead: One-shot Controllable Head Avatar with Vertex-feature Transformer](http://arxiv.org/abs/2311.06443v1)
+* [Rethink Cross-Modal Fusion in Weakly-Supervised Audio-Visual Video Parsing](http://arxiv.org/abs/2311.08151v1)
+* [Contrastive Learning for Multi-Object Tracking with Transformers](http://arxiv.org/abs/2311.08043v1)
+* [PECoP: Parameter Efficient Continual Pretraining for Action Quality Assessment](http://arxiv.org/abs/2311.07603v1)<br>:star:[code](https://github.com/Plrbear/PECoP)
 
 
 
@@ -160,6 +158,8 @@
 * 虚拟试穿
   * [A Generative Multi-Resolution Pyramid and Normal-Conditioning 3D Cloth Draping](http://arxiv.org/abs/2311.02700v1)
   * [GC-VTON: Predicting Globally Consistent and Occlusion Aware Local Flows with Neighborhood Integrity Preservation for Virtual Try-on](http://arxiv.org/abs/2311.04932v1)
+* 虚拟化身
+  * [CVTHead: One-shot Controllable Head Avatar with Vertex-feature Transformer](http://arxiv.org/abs/2311.06443v1)
 
 <a name="18"/>
 
@@ -187,6 +187,8 @@
   * [A Hybrid Graph Network for Complex Activity Detection in Video](http://arxiv.org/abs/2310.17493v1)
 * 动作预测
   * [Object-centric Video Representation for Long-term Action Anticipation](http://arxiv.org/abs/2311.00180v1)<br>:star:[code](https://github.com/brown-palm/ObjectPrompt)
+* 动作质量评估
+  * [PECoP: Parameter Efficient Continual Pretraining for Action Quality Assessment](http://arxiv.org/abs/2311.07603v1)<br>:star:[code](https://github.com/Plrbear/PECoP)
 
 <a name="15"/>
 
@@ -230,6 +232,8 @@
 
 ## 11.Object Tracking(目标跟踪)
 * [Separable Self and Mixed Attention Transformers for Efficient Object Tracking](https://arxiv.org/abs/2309.03979)<br>:star:[code](https://github.com/goutamyg/SMAT)
+* MOT
+  * [Contrastive Learning for Multi-Object Tracking with Transformers](http://arxiv.org/abs/2311.08043v1)
 
 <a name="10"/>
 
@@ -237,6 +241,8 @@
 * [MultIOD: Rehearsal-free Multihead Incremental Object Detector](https://arxiv.org/abs/2309.05334)
 * [Towards Few-Annotation Learning for Object Detection: Are Transformer-based Models More Efficient ?](https://arxiv.org/abs/2310.19936)
 * [TPSeNCE: Towards Artifact-Free Realistic Rain Generation for Deraining and Object Detection in Rain](http://arxiv.org/abs/2311.00660v1)<br>:star:[code](https://github.com/ShenZheng2000/TPSeNCE)
+* 协同显著目标检测
+  * [Unsupervised and semi-supervised co-salient object detection via segmentation frequency statistics](http://arxiv.org/abs/2311.06654v1)
 * 开放词汇目标检测
   * [LP-OVOD: Open-Vocabulary Object Detection by Linear Probing](http://arxiv.org/abs/2310.17109v1)<br>:star:[code](https://github.com/VinAIResearch/LP-OVOD)
 * 小目标检测
@@ -255,6 +261,7 @@
     * [Small Objects Matters in Weakly-supervised Semantic Segmentation](https://arxiv.org/abs/2309.14117)
 * 场景理解
   * [TSP-Transformer: Task-Specific Prompts Boosted Transformer for Holistic Scene Understanding](http://arxiv.org/abs/2311.03427v1)<br>:star:[code](https://github.com/tb2-sy/TSP-Transformer)
+  * [Rethink Cross-Modal Fusion in Weakly-Supervised Audio-Visual Video Parsing](http://arxiv.org/abs/2311.08151v1)
 * 语义场景分割
   * [U3DS$^3$: Unsupervised 3D Semantic Scene Segmentation](http://arxiv.org/abs/2311.06018v1)
 * VOS
@@ -276,6 +283,7 @@
 * 人脸识别
   * [Bias and Diversity in Synthetic-based Face Recognition](http://arxiv.org/abs/2311.03970v1)
 
+
 <a name="7"/>
 
 ## 7.3D(三维重建\三维视觉)
@@ -286,6 +294,7 @@
   * [MonoProb: Self-Supervised Monocular Depth Estimation with Interpretable Uncertainty](http://arxiv.org/abs/2311.06137v1)<br>:star:[code](https://github.com/CEA-LIST/MonoProb)
 * 三维重建
   * [Toward Planet-Wide Traffic Camera Calibration](http://arxiv.org/abs/2311.04243v1)<br>:house:[project](https://www.khiemvuong.com/OpenTrafficCam3D)
+  * [Registered and Segmented Deformable Object Reconstruction from a Single View Point Cloud](http://arxiv.org/abs/2311.07357v1)
 
 <a name="6"/>
 
@@ -341,6 +350,8 @@
 * [MixtureGrowth: Growing Neural Networks by Recombining Learned Parameters](http://arxiv.org/abs/2311.04251v1)<br>:star:[code](https://github.com/chaudatascience/mixturegrowth)
 * [Layer-wise Auto-Weighting for Non-Stationary Test-Time Adaptation](http://arxiv.org/abs/2311.05858v1)
 * [A Neural Height-Map Approach for the Binocular Photometric Stereo Problem](https://arxiv.org/abs/2311.05958)
+* [CrashCar101: Procedural Generation for Damage Assessment](http://arxiv.org/abs/2311.06536v1)
+
 
 
 <a name="0"/>
