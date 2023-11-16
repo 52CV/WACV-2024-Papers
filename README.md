@@ -18,14 +18,13 @@
 ## [2020 年论文分类汇总戳这里](#0)
 
 
-## 11月14，15日更新7篇，计114+7篇.
-* [Registered and Segmented Deformable Object Reconstruction from a Single View Point Cloud](http://arxiv.org/abs/2311.07357v1)
-* [Unsupervised and semi-supervised co-salient object detection via segmentation frequency statistics](http://arxiv.org/abs/2311.06654v1)
-* [CrashCar101: Procedural Generation for Damage Assessment](http://arxiv.org/abs/2311.06536v1)
-* [CVTHead: One-shot Controllable Head Avatar with Vertex-feature Transformer](http://arxiv.org/abs/2311.06443v1)
-* [Rethink Cross-Modal Fusion in Weakly-Supervised Audio-Visual Video Parsing](http://arxiv.org/abs/2311.08151v1)
-* [Contrastive Learning for Multi-Object Tracking with Transformers](http://arxiv.org/abs/2311.08043v1)
-* [PECoP: Parameter Efficient Continual Pretraining for Action Quality Assessment](http://arxiv.org/abs/2311.07603v1)<br>:star:[code](https://github.com/Plrbear/PECoP)
+## 11月16日更新6篇，计121+6篇.
+* [Domain Aligned CLIP for Few-shot Classification](http://arxiv.org/abs/2311.09191v1)
+* [Self-Annotated 3D Geometric Learning for Smeared Points Removal](http://arxiv.org/abs/2311.09029v1)<br>:star:[code](https://github.com/wangmiaowei/wacv2024_smearedremover.git)<br>:house:[project](https://wacv2024.thecvf.com/)
+* [Correlation-aware active learning for surgery video segmentation](http://arxiv.org/abs/2311.08811v1)
+* [4K-Resolution Photo Exposure Correction at 125 FPS with ~8K Parameters](http://arxiv.org/abs/2311.08759v1)<br>:star:[code](https://github.com/Zhou-Yijie/MSLTNet)
+* [ConeQuest: A Benchmark for Cone Segmentation on Mars](http://arxiv.org/abs/2311.08657v1)<br>:star:[code](https://github.com/kerner-lab/ConeQuest)
+* [Painterly Image Harmonization via Adversarial Residual Learning](http://arxiv.org/abs/2311.08646v1)
 
 
 
@@ -60,6 +59,7 @@
 * [IndustReal: A Dataset for Procedure Step Recognition Handling Execution Errors in Egocentric Videos in an Industrial-Like Setting](http://arxiv.org/abs/2310.17323v1)<br>:star:[code](https://github.com/TimSchoonbeek/IndustReal)
 * 基准
   * [ISAR: A Benchmark for Single- and Few-Shot Object Instance Segmentation and Re-Identification](http://arxiv.org/abs/2311.02734v1)
+  * [ConeQuest: A Benchmark for Cone Segmentation on Mars](http://arxiv.org/abs/2311.08657v1)<br>:star:[code](https://github.com/kerner-lab/ConeQuest)
 
 ## NeRF
 * [Fast Sun-aligned Outdoor Scene Relighting based on TensoRF](http://arxiv.org/abs/2311.03965v1)
@@ -89,7 +89,13 @@
 ## Image Fusion(图像融合)
 * [Bridging the Gap between Multi-focus and Multi-modal: A Focused Integration Framework for Multi-modal Image Fusion](http://arxiv.org/abs/2311.01886v1)<br>:star:[code](https://github.com/ixilai/MFIF-MMIF)
 
+## Image Classification(图像分类)
+* 小样本分类
+  * [Domain Aligned CLIP for Few-shot Classification](http://arxiv.org/abs/2311.09191v1)
 
+## Image Progress(低层图像处理、质量评价)
+* 图像矫正
+  * [4K-Resolution Photo Exposure Correction at 125 FPS with ~8K Parameters](http://arxiv.org/abs/2311.08759v1)<br>:star:[code](https://github.com/Zhou-Yijie/MSLTNet)
 
 ## Semi-supervised learning
 * 无监督学习
@@ -168,8 +174,10 @@
   * [PlantPlotGAN: A Physics-Informed Generative Adversarial Network for Plant Disease Prediction](https://arxiv.org/abs/2310.18268)
 * 扩散
   * [Expanding Expressiveness of Diffusion Models with Limited Data via Self-Distillation based Fine-Tuning](http://arxiv.org/abs/2311.01018v1)
-* 生成
+* 图像生成
   * [Improving the Effectiveness of Deep Generative Data](http://arxiv.org/abs/2311.03959v1)
+* 图像合成
+  * [Painterly Image Harmonization via Adversarial Residual Learning](http://arxiv.org/abs/2311.08646v1)
 
 <a name="17"/>
 
@@ -193,6 +201,8 @@
 <a name="15"/>
 
 ## 15.Video
+* 视频分割
+  * [Correlation-aware active learning for surgery video segmentation](http://arxiv.org/abs/2311.08811v1)
 * 视频识别
   * [Automated Sperm Assessment Framework and Neural Network Specialized for Sperm Video Recognition](http://arxiv.org/abs/2311.05927v1)
 * 视频时刻检索
@@ -351,7 +361,7 @@
 * [Layer-wise Auto-Weighting for Non-Stationary Test-Time Adaptation](http://arxiv.org/abs/2311.05858v1)
 * [A Neural Height-Map Approach for the Binocular Photometric Stereo Problem](https://arxiv.org/abs/2311.05958)
 * [CrashCar101: Procedural Generation for Damage Assessment](http://arxiv.org/abs/2311.06536v1)
-
+* [Self-Annotated 3D Geometric Learning for Smeared Points Removal](http://arxiv.org/abs/2311.09029v1)<br>:star:[code](https://github.com/wangmiaowei/wacv2024_smearedremover.git)<br>:house:[project](https://wacv2024.thecvf.com/)
 
 
 <a name="0"/>
