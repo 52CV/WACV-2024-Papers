@@ -18,14 +18,11 @@
 ## [2020 年论文分类汇总戳这里](#0)
 
 
-## 11月16日更新6篇，计121+6篇.
-* [Domain Aligned CLIP for Few-shot Classification](http://arxiv.org/abs/2311.09191v1)
-* [Self-Annotated 3D Geometric Learning for Smeared Points Removal](http://arxiv.org/abs/2311.09029v1)<br>:star:[code](https://github.com/wangmiaowei/wacv2024_smearedremover.git)<br>:house:[project](https://wacv2024.thecvf.com/)
-* [Correlation-aware active learning for surgery video segmentation](http://arxiv.org/abs/2311.08811v1)
-* [4K-Resolution Photo Exposure Correction at 125 FPS with ~8K Parameters](http://arxiv.org/abs/2311.08759v1)<br>:star:[code](https://github.com/Zhou-Yijie/MSLTNet)
-* [ConeQuest: A Benchmark for Cone Segmentation on Mars](http://arxiv.org/abs/2311.08657v1)<br>:star:[code](https://github.com/kerner-lab/ConeQuest)
-* [Painterly Image Harmonization via Adversarial Residual Learning](http://arxiv.org/abs/2311.08646v1)
-
+## 11月17日更新4篇，计127+4篇.
+* [Scene Text Image Super-resolution based on Text-conditional Diffusion Models](http://arxiv.org/abs/2311.09759v1)
+* [On the Quantification of Image Reconstruction Uncertainty without Training Data](http://arxiv.org/abs/2311.09639v1)
+* [DECDM: Document Enhancement using Cycle-Consistent Diffusion Models](http://arxiv.org/abs/2311.09625v1)
+* [Gradual Source Domain Expansion for Unsupervised Domain Adaptation](http://arxiv.org/abs/2311.09599v1)
 
 
 ## 目录
@@ -38,6 +35,9 @@
 |[13.Reid(人员重识别/步态识别/行人检测)](#13)|[14.OCR(文本检测识别)](#14)|[15.Video](#15)|[16.Action Detection(动作检测)](#16)|
 |[17.Human Pose Estimation(人体姿态估计)](#17)|[18.GAN/生成](#18)|[19.SLAM/AR/VR/Robotics(增强/虚拟现实/机器人)](#19)|[20.VQA(视觉问答)](#20)|
 
+
+## Computed Imaging(计算成像，如光学、几何、光场成像等)
+* [On the Quantification of Image Reconstruction Uncertainty without Training Data](http://arxiv.org/abs/2311.09639v1)
 
 ## Deepfake
 * [Weakly-supervised deepfake localization in diffusion-generated images](http://arxiv.org/abs/2311.04584v1)
@@ -114,6 +114,8 @@
   * [Hyperbolic vs Euclidean Embeddings in Few-Shot Learning: Two Sides of the Same Coin](https://arxiv.org/abs/2309.10013)
 * DG
   * [Learning Class and Domain Augmentations for Single-Source Open-Domain Generalization](http://arxiv.org/abs/2311.02599v1)
+* DA
+  * [Gradual Source Domain Expansion for Unsupervised Domain Adaptation](http://arxiv.org/abs/2311.09599v1)
 
 ## Machine Learning(机器学习)
 * 持续学习/增量学习
@@ -174,6 +176,7 @@
   * [PlantPlotGAN: A Physics-Informed Generative Adversarial Network for Plant Disease Prediction](https://arxiv.org/abs/2310.18268)
 * 扩散
   * [Expanding Expressiveness of Diffusion Models with Limited Data via Self-Distillation based Fine-Tuning](http://arxiv.org/abs/2311.01018v1)
+  * [DECDM: Document Enhancement using Cycle-Consistent Diffusion Models](http://arxiv.org/abs/2311.09625v1)
 * 图像生成
   * [Improving the Effectiveness of Deep Generative Data](http://arxiv.org/abs/2311.03959v1)
 * 图像合成
@@ -341,6 +344,7 @@
 <a name="2"/>
 
 ## 2.Super-Resolution(超分辨率)
+* [Scene Text Image Super-resolution based on Text-conditional Diffusion Models](http://arxiv.org/abs/2311.09759v1)
 * VSR
   * [Scale-Adaptive Feature Aggregation for Efficient Space-Time Video Super-Resolution](http://arxiv.org/abs/2310.17294v1)
 
