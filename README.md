@@ -18,7 +18,7 @@
 ## [2020 年论文分类汇总戳这里](#0)
 
 
-## 11月17日更新4篇，计127+4篇.
+## 11月21日更新4篇，计131+4篇.
 * [Scene Text Image Super-resolution based on Text-conditional Diffusion Models](http://arxiv.org/abs/2311.09759v1)
 * [On the Quantification of Image Reconstruction Uncertainty without Training Data](http://arxiv.org/abs/2311.09639v1)
 * [DECDM: Document Enhancement using Cycle-Consistent Diffusion Models](http://arxiv.org/abs/2311.09625v1)
@@ -133,6 +133,7 @@
 ## Model Compression/Knowledge Distillation/Pruning(模型压缩/知识蒸馏/剪枝)
 * 量化
   * [Reducing the Side-Effects of Oscillations in Training of Quantized YOLO Networks](http://arxiv.org/abs/2311.05109v1)
+  * [Evidential Uncertainty Quantification: A Variance-Based Perspective](https://arxiv.org/abs/2311.11367)
 
 ## NAS
 * [FLORA: Fine-grained Low-Rank Architecture Search for Vision Transformer](http://arxiv.org/abs/2311.03912v1)<br>:star:[code](https://github.com/shadowpa0327/FLORA)
@@ -232,6 +233,9 @@
   * [ShARc: Shape and Appearance Recognition for Person Identification In-the-wild](https://arxiv.org/abs/2310.15946)
 * 行人搜索
   * [DDAM-PS: Diligent Domain Adaptive Mixer for Person Search](https://arxiv.org/abs/2310.20706)<br>:star:[code](https://github.com/mustansarfiaz/DDAM-PS)
+* 人群计数
+  * 基于红外的人群计数
+    * [Evaluating Supervision Levels Trade-Offs for Infrared-Based People Counting](https://arxiv.org/abs/2311.11974)<br>:star:[code](https://github.com/tortueTortue/IRPeopleCounting)
 
 <a name="12"/>
 
@@ -240,6 +244,7 @@
   * [ShadowSense: Unsupervised Domain Adaptation and Feature Fusion for Shadow-Agnostic Tree Crown Detection from RGB-Thermal Drone Imagery](http://arxiv.org/abs/2310.16212v1)<br>:star:[code](https://github.com/rudrakshkapil/ShadowSense)<br>:star:[code](https://github.com/rudrakshkapil/ShadowSense)
 * 变化检测
   * [Effective Restoration of Source Knowledge in Continual Test Time Adaptation](http://arxiv.org/abs/2311.04991v1)
+  * [SeaDSC: A video-based unsupervised method for dynamic scene change detection in unmanned surface vehicles](https://arxiv.org/abs/2311.11580)
 
 <a name="11"/>
 
@@ -352,6 +357,7 @@
 
 ## 1.其它
 * [REALM: Robust Entropy Adaptive Loss Minimization for Improved Single-Sample Test-Time Adaptation](https://arxiv.org/abs/2309.03964)
+* [SENetV2: Aggregated dense layer for channelwise and global representations](https://arxiv.org/abs/2311.10807)
 * [RecycleNet: Latent Feature Recycling Leads to Iterative Decision Refinement](https://arxiv.org/abs/2309.07513)
 * [Learning Low-Rank Latent Spaces with Simple Deterministic Autoencoder: Theoretical and Empirical Insights](http://arxiv.org/abs/2310.16194v1)
 * [Learning Robust Deep Visual Representations from EEG Brain Recordings](http://arxiv.org/abs/2310.16532v1)
