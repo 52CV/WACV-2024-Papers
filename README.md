@@ -19,11 +19,10 @@
 
 
 ## 11月22日更新4篇，计135+4篇.
-* [Scene Text Image Super-resolution based on Text-conditional Diffusion Models](http://arxiv.org/abs/2311.09759v1)
-* [On the Quantification of Image Reconstruction Uncertainty without Training Data](http://arxiv.org/abs/2311.09639v1)
-* [DECDM: Document Enhancement using Cycle-Consistent Diffusion Models](http://arxiv.org/abs/2311.09625v1)
-* [Gradual Source Domain Expansion for Unsupervised Domain Adaptation](http://arxiv.org/abs/2311.09599v1)
-
+ * [Bridging Generalization Gaps in High Content Imaging Through Online Self-Supervised Domain Adaptation](https://arxiv.org/abs/2311.12623)<br>:star:[code](https://github.com/cfredinh/coda)
+* [Hyb-NeRF: A Multiresolution Hybrid Encoding for Neural Radiance Fields](https://arxiv.org/abs/2311.12490)
+* [GLAD: Global-Local View Alignment and Background Debiasing for Unsupervised Video Domain Adaptation with Large Domain Gap](https://arxiv.org/abs/2311.12467)<br>:star:[code](https://github.com/KHU-VLL/GLAD)
+* [Fingerspelling PoseNet: Enhancing Fingerspelling Translation with Pose-Based Transformer Models](https://arxiv.org/abs/2311.12128)<br>:star:[code](https://github.com/pooyafayyaz/Fingerspelling-PoseNet)
 
 ## 目录
 
