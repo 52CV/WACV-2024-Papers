@@ -98,8 +98,7 @@
 ## Image Progress(低层图像处理、质量评价)
 * 图像矫正
   * [4K-Resolution Photo Exposure Correction at 125 FPS with ~8K Parameters](http://arxiv.org/abs/2311.08759v1)<br>:star:[code](https://github.com/Zhou-Yijie/MSLTNet)
-*  视频背景消除
-   * [GLAD: Global-Local View Alignment and Background Debiasing for Unsupervised Video Domain Adaptation with Large Domain Gap](https://arxiv.org/abs/2311.12467)<br>:star:[code](https://github.com/KHU-VLL/GLAD)
+
 
 ## Semi-supervised learning
 * 无监督学习
@@ -121,6 +120,7 @@
 * DA
   * [Gradual Source Domain Expansion for Unsupervised Domain Adaptation](http://arxiv.org/abs/2311.09599v1)
   * [Bridging Generalization Gaps in High Content Imaging Through Online Self-Supervised Domain Adaptation](https://arxiv.org/abs/2311.12623)<br>:star:[code](https://github.com/cfredinh/coda)
+  * [GLAD: Global-Local View Alignment and Background Debiasing for Unsupervised Video Domain Adaptation with Large Domain Gap](https://arxiv.org/abs/2311.12467)<br>:star:[code](https://github.com/KHU-VLL/GLAD)
 
 ## Machine Learning(机器学习)
 * 持续学习/增量学习
