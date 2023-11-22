@@ -18,7 +18,7 @@
 ## [2020 年论文分类汇总戳这里](#0)
 
 
-## 11月21日更新4篇，计131+4篇.
+## 11月22日更新4篇，计135+4篇.
 * [Scene Text Image Super-resolution based on Text-conditional Diffusion Models](http://arxiv.org/abs/2311.09759v1)
 * [On the Quantification of Image Reconstruction Uncertainty without Training Data](http://arxiv.org/abs/2311.09639v1)
 * [DECDM: Document Enhancement using Cycle-Consistent Diffusion Models](http://arxiv.org/abs/2311.09625v1)
@@ -38,6 +38,9 @@
 
 ## Computed Imaging(计算成像，如光学、几何、光场成像等)
 * [On the Quantification of Image Reconstruction Uncertainty without Training Data](http://arxiv.org/abs/2311.09639v1)
+
+## Neural Radiance Fields
+* [Hyb-NeRF: A Multiresolution Hybrid Encoding for Neural Radiance Fields](https://arxiv.org/abs/2311.12490)
 
 ## Deepfake
 * [Weakly-supervised deepfake localization in diffusion-generated images](http://arxiv.org/abs/2311.04584v1)
@@ -96,6 +99,8 @@
 ## Image Progress(低层图像处理、质量评价)
 * 图像矫正
   * [4K-Resolution Photo Exposure Correction at 125 FPS with ~8K Parameters](http://arxiv.org/abs/2311.08759v1)<br>:star:[code](https://github.com/Zhou-Yijie/MSLTNet)
+*  视频背景消除
+   * [GLAD: Global-Local View Alignment and Background Debiasing for Unsupervised Video Domain Adaptation with Large Domain Gap](https://arxiv.org/abs/2311.12467)<br>:star:[code](https://github.com/KHU-VLL/GLAD)
 
 ## Semi-supervised learning
 * 无监督学习
@@ -116,6 +121,7 @@
   * [Learning Class and Domain Augmentations for Single-Source Open-Domain Generalization](http://arxiv.org/abs/2311.02599v1)
 * DA
   * [Gradual Source Domain Expansion for Unsupervised Domain Adaptation](http://arxiv.org/abs/2311.09599v1)
+  * [Bridging Generalization Gaps in High Content Imaging Through Online Self-Supervised Domain Adaptation](https://arxiv.org/abs/2311.12623)<br>:star:[code](https://github.com/cfredinh/coda)
 
 ## Machine Learning(机器学习)
 * 持续学习/增量学习
@@ -186,6 +192,9 @@
 
 ## 17.Human Pose Estimation
 * [Active Transfer Learning for Efficient Video-Specific Human Pose Estimation](http://arxiv.org/abs/2311.05041v1)<br>:star:[code](https://github.com/ImIntheMiddle/VATL4Pose-WACV2024)
+* 手势
+  * 手语翻译
+    * [Fingerspelling PoseNet: Enhancing Fingerspelling Translation with Pose-Based Transformer Models](https://arxiv.org/abs/2311.12128)<br>:star:[code](https://github.com/pooyafayyaz/Fingerspelling-PoseNet)
 
 <a name="16"/>
 
