@@ -18,11 +18,8 @@
 ## [2020 年论文分类汇总戳这里](#0)
 
 
-## 11月22日更新4篇，计135+4篇.
- * [Bridging Generalization Gaps in High Content Imaging Through Online Self-Supervised Domain Adaptation](https://arxiv.org/abs/2311.12623)<br>:star:[code](https://github.com/cfredinh/coda)
-* [Hyb-NeRF: A Multiresolution Hybrid Encoding for Neural Radiance Fields](https://arxiv.org/abs/2311.12490)
-* [GLAD: Global-Local View Alignment and Background Debiasing for Unsupervised Video Domain Adaptation with Large Domain Gap](https://arxiv.org/abs/2311.12467)<br>:star:[code](https://github.com/KHU-VLL/GLAD)
-* [Fingerspelling PoseNet: Enhancing Fingerspelling Translation with Pose-Based Transformer Models](https://arxiv.org/abs/2311.12128)<br>:star:[code](https://github.com/pooyafayyaz/Fingerspelling-PoseNet)
+## 11月23日更新4篇，计139+1篇.
+* [3D Face Style Transfer with a Hybrid Solution of NeRF and Mesh Rasterization](https://arxiv.org/abs/2311.13168)
 
 ## 目录
 
@@ -308,7 +305,8 @@
   * [P-Age: Pexels Dataset for Robust Spatio-Temporal Apparent Age Classification](http://arxiv.org/abs/2311.02432v1)
 * 人脸识别
   * [Bias and Diversity in Synthetic-based Face Recognition](http://arxiv.org/abs/2311.03970v1)
-
+* 人脸风格迁移
+  * [3D Face Style Transfer with a Hybrid Solution of NeRF and Mesh Rasterization](https://arxiv.org/abs/2311.13168)
 
 <a name="7"/>
 
