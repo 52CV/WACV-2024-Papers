@@ -18,8 +18,8 @@
 ## [2020 年论文分类汇总戳这里](#0)
 
 
-## 11月23日更新4篇，计139+1篇.
-* [3D Face Style Transfer with a Hybrid Solution of NeRF and Mesh Rasterization](https://arxiv.org/abs/2311.13168)
+## 11月27日更新1篇，计140+1篇.
+* [IDD-AW: A Benchmark for Safe and Robust Segmentation of Drive Scenes in Unstructured Traffic and Adverse Weather](https://arxiv.org/abs/2311.14459)
 
 ## 目录
 
@@ -285,6 +285,8 @@
 * 场景理解
   * [TSP-Transformer: Task-Specific Prompts Boosted Transformer for Holistic Scene Understanding](http://arxiv.org/abs/2311.03427v1)<br>:star:[code](https://github.com/tb2-sy/TSP-Transformer)
   * [Rethink Cross-Modal Fusion in Weakly-Supervised Audio-Visual Video Parsing](http://arxiv.org/abs/2311.08151v1)
+* 场景分割
+  * [IDD-AW: A Benchmark for Safe and Robust Segmentation of Drive Scenes in Unstructured Traffic and Adverse Weather](https://arxiv.org/abs/2311.14459)
 * 语义场景分割
   * [U3DS$^3$: Unsupervised 3D Semantic Scene Segmentation](http://arxiv.org/abs/2311.06018v1)
 * VOS
