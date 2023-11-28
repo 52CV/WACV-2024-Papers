@@ -18,8 +18,9 @@
 ## [2020 年论文分类汇总戳这里](#0)
 
 
-## 11月27日更新1篇，计140+1篇.
-* [IDD-AW: A Benchmark for Safe and Robust Segmentation of Drive Scenes in Unstructured Traffic and Adverse Weather](https://arxiv.org/abs/2311.14459)
+## 11月28日更新2篇，计141+2篇.
+* [2D Feature Distillation for Weakly- and Semi-Supervised 3D Semantic Segmentation](https://arxiv.org/abs/2311.15605)
+* [Occlusion Sensitivity Analysis with Augmentation Subspace Perturbation in Deep Feature Space](https://arxiv.org/abs/2311.15022)
 
 ## 目录
 
@@ -278,6 +279,8 @@
 * [Robust Source-Free Domain Adaptation for Fundus Image Segmentation](http://arxiv.org/abs/2310.16665v1)<br>:star:[code](https://github.com/LinGrayy/PLPB)
 * 语义分割
   * [Unsupervised Domain Adaptation for Semantic Segmentation with Pseudo Label Self-Refinement](http://arxiv.org/abs/2310.16979v1)
+  * 3D语义分割  
+    * [2D Feature Distillation for Weakly- and Semi-Supervised 3D Semantic Segmentation](https://arxiv.org/abs/2311.15605)
   * 细粒度语义分割  
     * [CPSeg: Finer-grained Image Semantic Segmentation via Chain-of-Thought Language Prompting](http://arxiv.org/abs/2310.16069v1)
   * 弱监督语义分割 
@@ -365,6 +368,7 @@
 
 ## 1.其它
 * [REALM: Robust Entropy Adaptive Loss Minimization for Improved Single-Sample Test-Time Adaptation](https://arxiv.org/abs/2309.03964)
+* [Occlusion Sensitivity Analysis with Augmentation Subspace Perturbation in Deep Feature Space](https://arxiv.org/abs/2311.15022)
 * [SENetV2: Aggregated dense layer for channelwise and global representations](https://arxiv.org/abs/2311.10807)
 * [RecycleNet: Latent Feature Recycling Leads to Iterative Decision Refinement](https://arxiv.org/abs/2309.07513)
 * [Learning Low-Rank Latent Spaces with Simple Deterministic Autoencoder: Theoretical and Empirical Insights](http://arxiv.org/abs/2310.16194v1)
