@@ -18,9 +18,8 @@
 ## [2020 年论文分类汇总戳这里](#0)
 
 
-## 11月28日更新2篇，计141+2篇.
-* [2D Feature Distillation for Weakly- and Semi-Supervised 3D Semantic Segmentation](https://arxiv.org/abs/2311.15605)
-* [Occlusion Sensitivity Analysis with Augmentation Subspace Perturbation in Deep Feature Space](https://arxiv.org/abs/2311.15022)
+## 11月29日更新1篇，计143+1篇.
+* [Aligning Non-Causal Factors for Transformer-Based Source-Free Domain Adaptation](https://arxiv.org/abs/2311.16294)<br>:house:[project](https://val.cds.iisc.ac.in/C-SFTrans/)
 
 ## 目录
 
@@ -119,6 +118,7 @@
   * [Gradual Source Domain Expansion for Unsupervised Domain Adaptation](http://arxiv.org/abs/2311.09599v1)
   * [Bridging Generalization Gaps in High Content Imaging Through Online Self-Supervised Domain Adaptation](https://arxiv.org/abs/2311.12623)<br>:star:[code](https://github.com/cfredinh/coda)
   * [GLAD: Global-Local View Alignment and Background Debiasing for Unsupervised Video Domain Adaptation with Large Domain Gap](https://arxiv.org/abs/2311.12467)<br>:star:[code](https://github.com/KHU-VLL/GLAD)
+  * [Aligning Non-Causal Factors for Transformer-Based Source-Free Domain Adaptation](https://arxiv.org/abs/2311.16294)<br>:house:[project](https://val.cds.iisc.ac.in/C-SFTrans/)
 
 ## Machine Learning(机器学习)
 * 持续学习/增量学习
