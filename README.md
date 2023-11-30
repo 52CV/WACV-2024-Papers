@@ -18,8 +18,9 @@
 ## [2020 年论文分类汇总戳这里](#0)
 
 
-## 11月29日更新1篇，计143+1篇.
-* [Aligning Non-Causal Factors for Transformer-Based Source-Free Domain Adaptation](https://arxiv.org/abs/2311.16294)<br>:house:[project](https://val.cds.iisc.ac.in/C-SFTrans/)
+## 11月30日更新1篇，计144+2篇.
+* [THInImg: Cross-modal Steganography for Presenting Talking Heads in Images](https://arxiv.org/abs/2311.17177)
+* [PHG-Net: Persistent Homology Guided Medical Image Classification](https://arxiv.org/abs/2311.17243)<br>:star:[code](https://github.com/yaoppeng/TopoClassification)
 
 ## 目录
 
@@ -306,6 +307,7 @@
 * 说话头
   * [LaughTalk: Expressive 3D Talking Head Generation with Laughter](http://arxiv.org/abs/2311.00994v1)
   * [3D-Aware Talking-Head Video Motion Transfer](http://arxiv.org/abs/2311.02549v1)
+  * [THInImg: Cross-modal Steganography for Presenting Talking Heads in Images](https://arxiv.org/abs/2311.17177)
 * 年龄分类
   * [P-Age: Pexels Dataset for Robust Spatio-Temporal Apparent Age Classification](http://arxiv.org/abs/2311.02432v1)
 * 人脸识别
@@ -336,6 +338,8 @@
   * [G-CASCADE: Efficient Cascaded Graph Convolutional Decoding for 2D Medical Image Segmentation](http://arxiv.org/abs/2310.16175v1)
   * [SynergyNet: Bridging the Gap between Discrete and Continuous Representations for Precise Medical Image Segmentation](https://arxiv.org/abs/2310.17764)
   * [MIST: Medical Image Segmentation Transformer with Convolutional Attention Mixing (CAM) Decoder](https://arxiv.org/abs/2310.19898)
+* 医学图像分类
+  * [PHG-Net: Persistent Homology Guided Medical Image Classification](https://arxiv.org/abs/2311.17243)<br>:star:[code](https://github.com/yaoppeng/TopoClassification)
 * 糖尿病视网膜分类
   * [Generalizing to Unseen Domains in Diabetic Retinopathy Classification](http://arxiv.org/abs/2310.17255v1)
 
