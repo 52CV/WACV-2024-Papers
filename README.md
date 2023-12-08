@@ -18,9 +18,18 @@
 ## [2020 年论文分类汇总戳这里](#0)
 
 
-## 11月30日更新1篇，计144+2篇.
-* [THInImg: Cross-modal Steganography for Presenting Talking Heads in Images](https://arxiv.org/abs/2311.17177)
-* [PHG-Net: Persistent Homology Guided Medical Image Classification](https://arxiv.org/abs/2311.17243)<br>:star:[code](https://github.com/yaoppeng/TopoClassification)
+## 12月1-8日更新11篇，计146+11篇.
+* [SICKLE: A Multi-Sensor Satellite Imagery Dataset Annotated with Multiple Key Cropping Parameters](http://arxiv.org/abs/2312.00069v1)
+* [Generalization by Adaptation: Diffusion-Based Domain Extension for Domain-Generalized Semantic Segmentation](http://arxiv.org/abs/2312.01850v1)<br>:star:[code](https://github.com/JNiemeijer/DIDEX)
+* [Multimodality-guided Image Style Transfer using Cross-modal GAN Inversion](http://arxiv.org/abs/2312.01671v1)<br>:star:[code](https://hywang66.github.io/mmist/)
+* [Few-shot Shape Recognition by Learning Deep Shape-aware Features](http://arxiv.org/abs/2312.01315v1)
+* [Learning to Compose SuperWeights for Neural Parameter Allocation Search](http://arxiv.org/abs/2312.01274v1)
+* [Meta-Learned Attribute Self-Interaction Network for Continual and Generalized Zero-Shot Learning](http://arxiv.org/abs/2312.01167v1)
+* [Token Fusion: Bridging the Gap between Token Pruning and Token Merging](http://arxiv.org/abs/2312.01026v1)
+* [Efficient Expansion and Gradient Based Task Inference for Replay Free Incremental Learning](http://arxiv.org/abs/2312.01188v1)
+* [You Can Run but not Hide: Improving Gait Recognition with Intrinsic Occlusion Type Awareness](http://arxiv.org/abs/2312.02290v1)
+* [Learn to Unlearn for Deep Neural Networks: Minimizing Unlearning Interference with Gradient Projection](https://arxiv.org/abs/2312.04095)
+* [Residual Graph Convolutional Network for Bird's-Eye-View Semantic Segmentation](https://arxiv.org/abs/2312.04044)
 
 ## 目录
 
@@ -48,6 +57,9 @@
 ##
 * [NITEC: Versatile Hand-Annotated Eye Contact Dataset for Ego-Vision Interaction](http://arxiv.org/abs/2311.04505v1)<br>:star:[code](https://github.com/thohemp/nitec)
 
+## Style Transfer(风格迁移)
+* [Multimodality-guided Image Style Transfer using Cross-modal GAN Inversion](http://arxiv.org/abs/2312.01671v1)<br>:star:[code](https://hywang66.github.io/mmist/)
+
 ## sound(语音)
 * 声源定位
   * [Can CLIP Help Sound Source Localization?](http://arxiv.org/abs/2311.04066v1)
@@ -57,6 +69,8 @@
 ## Dataset(数据集)
 * [SyntheWorld: A Large-Scale Synthetic Dataset for Land Cover Mapping and Building Change Detection](https://arxiv.org/abs/2309.01907)<br>:sunflower:[dataset](https://github.com/JTRNEO/SyntheWorld)
 * [IndustReal: A Dataset for Procedure Step Recognition Handling Execution Errors in Egocentric Videos in an Industrial-Like Setting](http://arxiv.org/abs/2310.17323v1)<br>:star:[code](https://github.com/TimSchoonbeek/IndustReal)
+* [SICKLE: A Multi-Sensor Satellite Imagery Dataset Annotated with Multiple Key Cropping Parameters](https://arxiv.org/abs/2312.00069)
+* [SICKLE: A Multi-Sensor Satellite Imagery Dataset Annotated with Multiple Key Cropping Parameters](http://arxiv.org/abs/2312.00069v1)
 * 基准
   * [ISAR: A Benchmark for Single- and Few-Shot Object Instance Segmentation and Re-Identification](http://arxiv.org/abs/2311.02734v1)
   * [ConeQuest: A Benchmark for Cone Segmentation on Mars](http://arxiv.org/abs/2311.08657v1)<br>:star:[code](https://github.com/kerner-lab/ConeQuest)
@@ -111,6 +125,7 @@
 ## Few/Zero-Shot Learning/Domain Generalization/Adaptation(小/零样本/域泛化/域适应)
 * 零样本学习
   * [GIPCOL: Graph-Injected Soft Prompting for Compositional Zero-Shot Learning](http://arxiv.org/abs/2311.05729v1)
+  * [Meta-Learned Attribute Self-Interaction Network for Continual and Generalized Zero-Shot Learning](http://arxiv.org/abs/2312.01167v1)
 * 小样本学习
   * [Hyperbolic vs Euclidean Embeddings in Few-Shot Learning: Two Sides of the Same Coin](https://arxiv.org/abs/2309.10013)
 * DG
@@ -123,6 +138,7 @@
 
 ## Machine Learning(机器学习)
 * 持续学习/增量学习
+  * [Efficient Expansion and Gradient Based Task Inference for Replay Free Incremental Learning](http://arxiv.org/abs/2312.01188v1)
   * 类增量
     * [Wakening Past Concepts without Past Data: Class-Incremental Learning from Online Placebos](http://arxiv.org/abs/2310.16115v1)<br>:star:[code](https://github.com/yaoyao-liu/online-placebos)
     * [Robust Feature Learning and Global Variance-Driven Classifier Alignment for Long-Tail Class Incremental Learning](http://arxiv.org/abs/2311.01227v1)
@@ -138,6 +154,8 @@
 * 量化
   * [Reducing the Side-Effects of Oscillations in Training of Quantized YOLO Networks](http://arxiv.org/abs/2311.05109v1)
   * [Evidential Uncertainty Quantification: A Variance-Based Perspective](https://arxiv.org/abs/2311.11367)
+* 剪枝
+  * [Token Fusion: Bridging the Gap between Token Pruning and Token Merging](http://arxiv.org/abs/2312.01026v1)
 
 ## NAS
 * [FLORA: Fine-grained Low-Rank Architecture Search for Vision Transformer](http://arxiv.org/abs/2311.03912v1)<br>:star:[code](https://github.com/shadowpa0327/FLORA)
@@ -243,6 +261,8 @@
 * 人群计数
   * 基于红外的人群计数
     * [Evaluating Supervision Levels Trade-Offs for Infrared-Based People Counting](https://arxiv.org/abs/2311.11974)<br>:star:[code](https://github.com/tortueTortue/IRPeopleCounting)
+* 步态识别
+  * [You Can Run but not Hide: Improving Gait Recognition with Intrinsic Occlusion Type Awareness](http://arxiv.org/abs/2312.02290v1)
 
 <a name="12"/>
 
@@ -280,12 +300,15 @@
 * [Robust Source-Free Domain Adaptation for Fundus Image Segmentation](http://arxiv.org/abs/2310.16665v1)<br>:star:[code](https://github.com/LinGrayy/PLPB)
 * 语义分割
   * [Unsupervised Domain Adaptation for Semantic Segmentation with Pseudo Label Self-Refinement](http://arxiv.org/abs/2310.16979v1)
+  * [Residual Graph Convolutional Network for Bird's-Eye-View Semantic Segmentation](https://arxiv.org/abs/2312.04044)
   * 3D语义分割  
     * [2D Feature Distillation for Weakly- and Semi-Supervised 3D Semantic Segmentation](https://arxiv.org/abs/2311.15605)
   * 细粒度语义分割  
     * [CPSeg: Finer-grained Image Semantic Segmentation via Chain-of-Thought Language Prompting](http://arxiv.org/abs/2310.16069v1)
   * 弱监督语义分割 
     * [Small Objects Matters in Weakly-supervised Semantic Segmentation](https://arxiv.org/abs/2309.14117)
+  * 域适应语义分割
+     * [Generalization by Adaptation: Diffusion-Based Domain Extension for Domain-Generalized Semantic Segmentation](http://arxiv.org/abs/2312.01850v1)<br>:star:[code](https://github.com/JNiemeijer/DIDEX)
 * 场景理解
   * [TSP-Transformer: Task-Specific Prompts Boosted Transformer for Holistic Scene Understanding](http://arxiv.org/abs/2311.03427v1)<br>:star:[code](https://github.com/tb2-sy/TSP-Transformer)
   * [Rethink Cross-Modal Fusion in Weakly-Supervised Audio-Visual Video Parsing](http://arxiv.org/abs/2311.08151v1)
@@ -388,6 +411,9 @@
 * [A Neural Height-Map Approach for the Binocular Photometric Stereo Problem](https://arxiv.org/abs/2311.05958)
 * [CrashCar101: Procedural Generation for Damage Assessment](http://arxiv.org/abs/2311.06536v1)
 * [Self-Annotated 3D Geometric Learning for Smeared Points Removal](http://arxiv.org/abs/2311.09029v1)<br>:star:[code](https://github.com/wangmiaowei/wacv2024_smearedremover.git)<br>:house:[project](https://wacv2024.thecvf.com/)
+* [Few-shot Shape Recognition by Learning Deep Shape-aware Features](http://arxiv.org/abs/2312.01315v1)
+* [Learning to Compose SuperWeights for Neural Parameter Allocation Search](http://arxiv.org/abs/2312.01274v1)
+* [Learn to Unlearn for Deep Neural Networks: Minimizing Unlearning Interference with Gradient Projection](https://arxiv.org/abs/2312.04095)
 
 
 <a name="0"/>
