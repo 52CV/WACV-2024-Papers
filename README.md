@@ -18,18 +18,9 @@
 ## [2020 年论文分类汇总戳这里](#0)
 
 
-## 12月1-8日更新11篇，计146+11篇.
-* [SICKLE: A Multi-Sensor Satellite Imagery Dataset Annotated with Multiple Key Cropping Parameters](http://arxiv.org/abs/2312.00069v1)
-* [Generalization by Adaptation: Diffusion-Based Domain Extension for Domain-Generalized Semantic Segmentation](http://arxiv.org/abs/2312.01850v1)<br>:star:[code](https://github.com/JNiemeijer/DIDEX)
-* [Multimodality-guided Image Style Transfer using Cross-modal GAN Inversion](http://arxiv.org/abs/2312.01671v1)<br>:star:[code](https://hywang66.github.io/mmist/)
-* [Few-shot Shape Recognition by Learning Deep Shape-aware Features](http://arxiv.org/abs/2312.01315v1)
-* [Learning to Compose SuperWeights for Neural Parameter Allocation Search](http://arxiv.org/abs/2312.01274v1)
-* [Meta-Learned Attribute Self-Interaction Network for Continual and Generalized Zero-Shot Learning](http://arxiv.org/abs/2312.01167v1)
-* [Token Fusion: Bridging the Gap between Token Pruning and Token Merging](http://arxiv.org/abs/2312.01026v1)
-* [Efficient Expansion and Gradient Based Task Inference for Replay Free Incremental Learning](http://arxiv.org/abs/2312.01188v1)
-* [You Can Run but not Hide: Improving Gait Recognition with Intrinsic Occlusion Type Awareness](http://arxiv.org/abs/2312.02290v1)
-* [Learn to Unlearn for Deep Neural Networks: Minimizing Unlearning Interference with Gradient Projection](https://arxiv.org/abs/2312.04095)
-* [Residual Graph Convolutional Network for Bird's-Eye-View Semantic Segmentation](https://arxiv.org/abs/2312.04044)
+## 12月11-12日更新11篇，计157+2篇.
+* [Beyond Classification: Definition and Density-based Estimation of Calibration in Object Detection](https://arxiv.org/abs/2312.06645)
+* [Learning Generalizable Perceptual Representations for Data-Efficient No-Reference Image Quality Assessment](https://arxiv.org/abs/2312.04838)
 
 ## 目录
 
@@ -110,7 +101,8 @@
 ## Image Progress(低层图像处理、质量评价)
 * 图像矫正
   * [4K-Resolution Photo Exposure Correction at 125 FPS with ~8K Parameters](http://arxiv.org/abs/2311.08759v1)<br>:star:[code](https://github.com/Zhou-Yijie/MSLTNet)
-
+* 图像质量评估
+  * [Learning Generalizable Perceptual Representations for Data-Efficient No-Reference Image Quality Assessment](https://arxiv.org/abs/2312.04838)
 
 ## Semi-supervised learning
 * 无监督学习
@@ -286,6 +278,7 @@
 * [MultIOD: Rehearsal-free Multihead Incremental Object Detector](https://arxiv.org/abs/2309.05334)
 * [Towards Few-Annotation Learning for Object Detection: Are Transformer-based Models More Efficient ?](https://arxiv.org/abs/2310.19936)
 * [TPSeNCE: Towards Artifact-Free Realistic Rain Generation for Deraining and Object Detection in Rain](http://arxiv.org/abs/2311.00660v1)<br>:star:[code](https://github.com/ShenZheng2000/TPSeNCE)
+* [Beyond Classification: Definition and Density-based Estimation of Calibration in Object Detection](https://arxiv.org/abs/2312.06645)
 * 协同显著目标检测
   * [Unsupervised and semi-supervised co-salient object detection via segmentation frequency statistics](http://arxiv.org/abs/2311.06654v1)
 * 开放词汇目标检测
