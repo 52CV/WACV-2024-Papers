@@ -18,9 +18,8 @@
 ## [2020 年论文分类汇总戳这里](#0)
 
 
-## 12月11-12日更新11篇，计157+2篇.
-* [Beyond Classification: Definition and Density-based Estimation of Calibration in Object Detection](https://arxiv.org/abs/2312.06645)
-* [Learning Generalizable Perceptual Representations for Data-Efficient No-Reference Image Quality Assessment](https://arxiv.org/abs/2312.04838)
+## 12月14日更新1篇，计159+1篇.
+* [Hybrid Sample Synthesis-based Debiasing of Classifier in Limited Data Setting](https://arxiv.org/abs/2312.08288)
 
 ## 目录
 
@@ -407,6 +406,7 @@
 * [Few-shot Shape Recognition by Learning Deep Shape-aware Features](http://arxiv.org/abs/2312.01315v1)
 * [Learning to Compose SuperWeights for Neural Parameter Allocation Search](http://arxiv.org/abs/2312.01274v1)
 * [Learn to Unlearn for Deep Neural Networks: Minimizing Unlearning Interference with Gradient Projection](https://arxiv.org/abs/2312.04095)
+* [Hybrid Sample Synthesis-based Debiasing of Classifier in Limited Data Setting](https://arxiv.org/abs/2312.08288)
 
 
 <a name="0"/>
