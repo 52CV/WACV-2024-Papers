@@ -18,8 +18,9 @@
 ## [2020 年论文分类汇总戳这里](#0)
 
 
-## 12月14日更新1篇，计159+1篇.
-* [Hybrid Sample Synthesis-based Debiasing of Classifier in Limited Data Setting](https://arxiv.org/abs/2312.08288)
+## 12月18日更新2篇，计160+2篇.
+* [Tracking Skiers from the Top to the Bottom](https://arxiv.org/abs/2312.09723)<br>:star:[code](https://machinelearning.uniud.it/datasets/skitb)
+* [Text-Guided Face Recognition using Multi-Granularity Cross-Modal Contrastive Learning](https://arxiv.org/abs/2312.09367)
 
 ## 目录
 
@@ -268,6 +269,7 @@
 
 ## 11.Object Tracking(目标跟踪)
 * [Separable Self and Mixed Attention Transformers for Efficient Object Tracking](https://arxiv.org/abs/2309.03979)<br>:star:[code](https://github.com/goutamyg/SMAT)
+* [Tracking Skiers from the Top to the Bottom](https://arxiv.org/abs/2312.09723)<br>:star:[code](https://machinelearning.uniud.it/datasets/skitb)
 * MOT
   * [Contrastive Learning for Multi-Object Tracking with Transformers](http://arxiv.org/abs/2311.08043v1)
 
@@ -327,6 +329,7 @@
   * [P-Age: Pexels Dataset for Robust Spatio-Temporal Apparent Age Classification](http://arxiv.org/abs/2311.02432v1)
 * 人脸识别
   * [Bias and Diversity in Synthetic-based Face Recognition](http://arxiv.org/abs/2311.03970v1)
+  * [Text-Guided Face Recognition using Multi-Granularity Cross-Modal Contrastive Learning](https://arxiv.org/abs/2312.09367)
 * 人脸风格迁移
   * [3D Face Style Transfer with a Hybrid Solution of NeRF and Mesh Rasterization](https://arxiv.org/abs/2311.13168)
 
