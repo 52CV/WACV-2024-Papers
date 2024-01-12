@@ -46,6 +46,10 @@
 ## Computed Imaging(计算成像，如光学、几何、光场成像等)
 * [On the Quantification of Image Reconstruction Uncertainty without Training Data](http://arxiv.org/abs/2311.09639v1)
 * [Deep Optics for Optomechanical Control Policy Design](https://openaccess.thecvf.com/content/WACV2024/papers/Fletcher_Deep_Optics_for_Optomechanical_Control_Policy_Design_WACV_2024_paper.pdf)
+* [From Chaos to Calibration: A Geometric Mutual Information Approach To Target-Free Camera LiDAR Extrinsic Calibration](https://openaccess.thecvf.com/content/WACV2024/papers/Borer_From_Chaos_to_Calibration_A_Geometric_Mutual_Information_Approach_To_WACV_2024_paper.pdf)
+
+## Graphic Layout(图形布局)
+* [Unsupervised Graphic Layout Grouping with Transformers](https://openaccess.thecvf.com/content/WACV2024/papers/Zhu_Unsupervised_Graphic_Layout_Grouping_With_Transformers_WACV_2024_paper.pdf)
 
 ## Neural Radiance Fields(NeRF)
 * [EvDNeRF: Reconstructing Event Data With Dynamic Neural Radiance Fields](http://arxiv.org/abs/2310.02437)
@@ -73,10 +77,13 @@
 * [LipAT: Beyond Style Transfer for Controllable Neural Simulation of Lipstick Using Cosmetic Attributes](https://openaccess.thecvf.com/content/WACV2024/papers/Silva_LipAT_Beyond_Style_Transfer_for_Controllable_Neural_Simulation_of_Lipstick_WACV_2024_paper.pdf)
 
 ## sound(语音)
+* 唇语同步
+  * [Diff2Lip: Audio Conditioned Diffusion Models for Lip-Synchronization](http://arxiv.org/abs/2308.09716)
 * 声源定位
   * [Can CLIP Help Sound Source Localization?](http://arxiv.org/abs/2311.04066v1)
 * 音频分离  
   * [LAVSS: Location-Guided Audio-Visual Spatial Audio Separation](https://arxiv.org/abs/2310.20446)
+  * [Visually Guided Audio Source Separation With Meta Consistency Learning](https://openaccess.thecvf.com/content/WACV2024/papers/Islam_Visually_Guided_Audio_Source_Separation_With_Meta_Consistency_Learning_WACV_2024_paper.pdf)
 * 3D 声源检测
   * [Sound3DVDet: 3D Sound Source Detection Using Multiview Microphone Array and RGB Images](https://openaccess.thecvf.com/content/WACV2024/papers/He_Sound3DVDet_3D_Sound_Source_Detection_Using_Multiview_Microphone_Array_and_WACV_2024_paper.pdf)
 * 语音视频合成
@@ -121,6 +128,7 @@
 
 
 ## Vision Transformers
+* [Grafting Vision Transformers](http://arxiv.org/abs/2210.15943)
 * [Efficient MAE Towards Large-Scale Vision Transformers](https://openaccess.thecvf.com/content/WACV2024/papers/Han_Efficient_MAE_Towards_Large-Scale_Vision_Transformers_WACV_2024_paper.pdf)
 * [SimA: Simple Softmax-Free Attention for Vision Transformers](http://arxiv.org/abs/2206.08898)
 * [Open-NeRF: Towards Open Vocabulary NeRF Decomposition](http://arxiv.org/abs/2310.16383v1)
@@ -199,6 +207,8 @@
   * [Active Batch Sampling for Multi-Label Classification With Binary User Feedback](https://openaccess.thecvf.com/content/WACV2024/papers/Goswami_Active_Batch_Sampling_for_Multi-Label_Classification_With_Binary_User_Feedback_WACV_2024_paper.pdf)
 * 小样本分类
   * [Domain Aligned CLIP for Few-shot Classification](http://arxiv.org/abs/2311.09191v1)
+* 海草分类
+  * [Image Labels Are All You Need for Coarse Seagrass Segmentation](http://arxiv.org/abs/2303.00973)
 * 细粒度
   * [Elusive Images: Beyond Coarse Analysis for Fine-Grained Recognition](https://openaccess.thecvf.com/content/WACV2024/papers/Anderson_Elusive_Images_Beyond_Coarse_Analysis_for_Fine-Grained_Recognition_WACV_2024_paper.pdf)
 
@@ -217,6 +227,7 @@
     * [PhISH-Net: Physics Inspired System for High Resolution Underwater Image Enhancement](https://openaccess.thecvf.com/content/WACV2024/papers/Chandrasekar_PhISH-Net_Physics_Inspired_System_for_High_Resolution_Underwater_Image_Enhancement_WACV_2024_paper.pdf)
     * [Spectroformer: Multi-Domain Query Cascaded Transformer Network for Underwater Image Enhancement](https://openaccess.thecvf.com/content/WACV2024/papers/Khan_Spectroformer_Multi-Domain_Query_Cascaded_Transformer_Network_for_Underwater_Image_Enhancement_WACV_2024_paper.pdf)
 * 图像去噪
+  * [Self-Supervised Denoising Transformer With Gaussian Process](https://openaccess.thecvf.com/content/WACV2024/papers/Yasarla_Self-Supervised_Denoising_Transformer_With_Gaussian_Process_WACV_2024_paper.pdf)
   * [Fixed Pattern Noise Removal for Multi-View Single-Sensor Infrared Camera](https://openaccess.thecvf.com/content/WACV2024/papers/Barral_Fixed_Pattern_Noise_Removal_for_Multi-View_Single-Sensor_Infrared_Camera_WACV_2024_paper.pdf)
 * 图像去雾
   * [C2AIR: Consolidated Compact Aerial Image Haze Removal](https://openaccess.thecvf.com/content/WACV2024/papers/Kulkarni_C2AIR_Consolidated_Compact_Aerial_Image_Haze_Removal_WACV_2024_paper.pdf)
@@ -237,6 +248,8 @@
   * [Opinion Unaware Image Quality Assessment via Adversarial Convolutional Variational Autoencoder](https://openaccess.thecvf.com/content/WACV2024/papers/Shukla_Opinion_Unaware_Image_Quality_Assessment_via_Adversarial_Convolutional_Variational_Autoencoder_WACV_2024_paper.pdf)
 * 图像颜色编辑
   * [Content-Aware Image Color Editing With Auxiliary Color Restoration Tasks](https://openaccess.thecvf.com/content/WACV2024/papers/Ren_Content-Aware_Image_Color_Editing_With_Auxiliary_Color_Restoration_Tasks_WACV_2024_paper.pdf)
+  * 再着色
+    * [Latent-Guided Exemplar-Based Image Re-Colorization](https://openaccess.thecvf.com/content/WACV2024/papers/Yang_Latent-Guided_Exemplar-Based_Image_Re-Colorization_WACV_2024_paper.pdf)
 
 ## Semi-supervised learning
 * 无监督学习
@@ -250,6 +263,7 @@
   * [CycleCL: Self-supervised Learning for Periodic Videos](http://arxiv.org/abs/2311.03402v1)
   * [Self-Supervised Learning for Visual Relationship Detection through Masked Bounding Box Reconstruction](http://arxiv.org/abs/2311.04834v1)<br>:star:[code](https://github.com/deeplab-ai/SelfSupervisedVRD)
   * [Self-Supervised Learning for Place Representation Generalization Across Appearance Changes](https://openaccess.thecvf.com/content/WACV2024/papers/Musallam_Self-Supervised_Learning_for_Place_Representation_Generalization_Across_Appearance_Changes_WACV_2024_paper.pdf)
+  * [Masking Improves Contrastive Self-Supervised Learning for ConvNets, and Saliency Tells You Where]
 
 ## Few/Zero-Shot Learning/Domain Generalization/Adaptation(小/零样本/域泛化/域适应)
 * 零样本学习
@@ -257,12 +271,14 @@
   * [Meta-Learned Attribute Self-Interaction Network for Continual and Generalized Zero-Shot Learning](http://arxiv.org/abs/2312.01167v1)
   * [CAILA: Concept-Aware Intra-Layer Adapters for Compositional Zero-Shot Learning](http://arxiv.org/abs/2305.16681)
 * 小样本学习
+  * [Adaptive Manifold for Imbalanced Transductive Few-Shot Learning](http://arxiv.org/abs/2304.14281)
   * [Hyperbolic vs Euclidean Embeddings in Few-Shot Learning: Two Sides of the Same Coin](https://arxiv.org/abs/2309.10013)
 * DG
   * [Learning Class and Domain Augmentations for Single-Source Open-Domain Generalization](http://arxiv.org/abs/2311.02599v1)
   * [Randomized Adversarial Style Perturbations for Domain Generalization](http://arxiv.org/abs/2304.01959)
   * [Domain Generalisation via Risk Distribution Matching](http://arxiv.org/abs/2310.18598)
   * [Domain Generalization by Rejecting Extreme Augmentations](https://openaccess.thecvf.com/content/WACV2024/papers/Aminbeidokhti_Domain_Generalization_by_Rejecting_Extreme_Augmentations_WACV_2024_paper.pdf)
+  * [Single Domain Generalization via Normalised Cross-Correlation Based Convolutions](http://arxiv.org/abs/2307.05901)
 * DA
   * [Gradual Source Domain Expansion for Unsupervised Domain Adaptation](http://arxiv.org/abs/2311.09599v1)
   * [Continual Test-Time Domain Adaptation via Dynamic Sample Selection](http://arxiv.org/abs/2301.10611)
@@ -275,6 +291,8 @@
 * [Group-Wise Contrastive Bottleneck for Weakly-Supervised Visual Representation Learning](https://openaccess.thecvf.com/content/WACV2024/papers/Yap_Group-Wise_Contrastive_Bottleneck_for_Weakly-Supervised_Visual_Representation_Learning_WACV_2024_paper.pdf)
 
 ## Machine Learning(机器学习)
+* 元学习
+  * [SigmML: Metric Meta-Learning for Writer Independent Offline Signature Verification in the Space of SPD Matrices](https://openaccess.thecvf.com/content/WACV2024/papers/Giazitzis_SigmML_Metric_Meta-Learning_for_Writer_Independent_Offline_Signature_Verification_in_WACV_2024_paper.pdf)
 * 持续学习/增量学习
   * [MoP-CLIP: A Mixture of Prompt-Tuned CLIP Models for Domain Incremental Learning](https://openaccess.thecvf.com/content/WACV2024/papers/Nicolas_MoP-CLIP_A_Mixture_of_Prompt-Tuned_CLIP_Models_for_Domain_Incremental_WACV_2024_paper.pdf)
   * [Efficient Expansion and Gradient Based Task Inference for Replay Free Incremental Learning](http://arxiv.org/abs/2312.01188v1)
@@ -350,6 +368,7 @@
 * 车道线检测
   * [CLRerNet: Improving Confidence of Lane Detection With LaneIoU](http://arxiv.org/abs/2305.08366)
 * 自动驾驶
+  * [Re-Evaluating LiDAR Scene Flow for Autonomous Driving](https://arxiv.org/abs/2304.02150)
   * [NVAutoNet: Fast and Accurate 360deg 3D Visual Perception for Self Driving](https://openaccess.thecvf.com/content/WACV2024/papers/Pham_NVAutoNet_Fast_and_Accurate_360deg_3D_Visual_Perception_for_Self_WACV_2024_paper.pdf)
   * [Driving Through the Concept Gridlock: Unraveling Explainability Bottlenecks in Automated Driving](http://arxiv.org/abs/2310.16639)
   * [StreamMapNet: Streaming Mapping Network for Vectorized Online HD Map Construction](https://arxiv.org/abs/2308.12570)<br>:star:[code](https://github.com/yuantianyuan01/StreamMapNet)
@@ -392,6 +411,8 @@
 
 ## Human Motion Prediction(人体运动预测)
 * [Incorporating Physics Principles for Precise Human Motion Prediction](https://openaccess.thecvf.com/content/WACV2024/papers/Zhang_Incorporating_Physics_Principles_for_Precise_Human_Motion_Prediction_WACV_2024_paper.pdf)
+* 人体运动合成
+  * [MotionGPT: Human Motion Synthesis With Improved Diversity and Realism via GPT-3 Prompting](https://openaccess.thecvf.com/content/WACV2024/papers/Ribeiro-Gomes_MotionGPT_Human_Motion_Synthesis_With_Improved_Diversity_and_Realism_via_WACV_2024_paper.pdf)
 
 ## Multimodal(多模态)
 * [Dynamic Multimodal Information Bottleneck for Multimodality Classification](http://arxiv.org/abs/2311.01066v1)<br>:star:[code](https://github.com/BII-wushuang/DMIB)
@@ -442,6 +463,7 @@
 * 虚拟化身
   * [CVTHead: One-shot Controllable Head Avatar with Vertex-feature Transformer](http://arxiv.org/abs/2311.06443v1)
 * 机器人
+  * [Shape From Shading for Robotic Manipulation](http://arxiv.org/abs/2304.11824)
   * [Optimizing Long-Term Robot Tracking With Multi-Platform Sensor Fusion](https://openaccess.thecvf.com/content/WACV2024/papers/Albanese_Optimizing_Long-Term_Robot_Tracking_With_Multi-Platform_Sensor_Fusion_WACV_2024_paper.pdf)
 
 <a name="18"/>
@@ -460,6 +482,7 @@
   * [Generated Distributions Are All You Need for Membership Inference Attacks Against Generative Models](http://arxiv.org/abs/2310.19410)
 * 图像合成
   * [Painterly Image Harmonization via Adversarial Residual Learning](http://arxiv.org/abs/2311.08646v1)
+  * [Controllable Image Synthesis of Industrial Data Using Stable Diffusion](https://openaccess.thecvf.com/content/WACV2024/papers/Valvano_Controllable_Image_Synthesis_of_Industrial_Data_Using_Stable_Diffusion_WACV_2024_paper.pdf)
 * 文本-图像
   * [CLIPAG: Towards Generator-Free Text-to-Image Generation](http://arxiv.org/abs/2306.16805)
   * [Customizing 360-Degree Panoramas Through Text-to-Image Diffusion Models](http://arxiv.org/abs/2310.18840)
@@ -474,7 +497,8 @@
   * [Expanding Expressiveness of Diffusion Models with Limited Data via Self-Distillation based Fine-Tuning](http://arxiv.org/abs/2311.01018v1)
   * [Training-Free Content Injection Using H-Space in Diffusion Models](https://openaccess.thecvf.com/content/WACV2024/papers/Jeong_Training-Free_Content_Injection_Using_H-Space_in_Diffusion_Models_WACV_2024_paper.pdf)
   * [PoseDiff: Pose-Conditioned Multimodal Diffusion Model for Unbounded Scene Synthesis From Sparse Inputs](https://openaccess.thecvf.com/content/WACV2024/papers/Lee_PoseDiff_Pose-Conditioned_Multimodal_Diffusion_Model_for_Unbounded_Scene_Synthesis_From_WACV_2024_paper.pdf)
-
+* 图像翻译
+  * [SemST: Semantically Consistent Multi-Scale Image Translation via Structure-Texture Alignment](http://arxiv.org/abs/2310.04995)
 
 ## Object Pose Estimation(物体姿态估计)
 * 6D
@@ -532,6 +556,7 @@
     * [The Paleographer's Eye ex machina: Using Computer Vision To Assist Humanists in Scribal Hand Identification](https://openaccess.thecvf.com/content/WACV2024/papers/Grieggs_The_Paleographers_Eye_ex_machina_Using_Computer_Vision_To_Assist_WACV_2024_paper.pdf)
   * 交互式分割
     * [Interactive Segmentation for Diverse Gesture Types Without Context](http://arxiv.org/abs/2307.10518)  
+    * [Continuous Adaptation for Interactive Segmentation Using Teacher-Student Architecture](https://openaccess.thecvf.com/content/WACV2024/papers/Atanyan_Continuous_Adaptation_for_Interactive_Segmentation_Using_Teacher-Student_Architecture_WACV_2024_paper.pdf)
 * 人体轮廓提取
   * [POISE: Pose Guided Human Silhouette Extraction Under Occlusions](http://arxiv.org/abs/2311.05077)
 
@@ -551,6 +576,7 @@
 * 动作检测
   * [JOADAA: Joint Online Action Detection and Action Anticipation](http://arxiv.org/abs/2309.06130)
   * [A Hybrid Graph Network for Complex Activity Detection in Video](http://arxiv.org/abs/2310.17493v1)
+  * [Differentially Private Video Activity Recognition](http://arxiv.org/abs/2306.15742)
   * [Embedding Task Structure for Action Detection](https://openaccess.thecvf.com/content/WACV2024/papers/Peven_Embedding_Task_Structure_for_Action_Detection_WACV_2024_paper.pdf)
   * [Egocentric Action Recognition by Capturing Hand-Object Contact and Object State](https://openaccess.thecvf.com/content/WACV2024/papers/Shiota_Egocentric_Action_Recognition_by_Capturing_Hand-Object_Contact_and_Object_State_WACV_2024_paper.pdf)
   * [Exploring the Impact of Rendering Method and Motion Quality on Model Performance When Using Multi-View Synthetic Data for Action Recognition](https://openaccess.thecvf.com/content/WACV2024/papers/Panev_Exploring_the_Impact_of_Rendering_Method_and_Motion_Quality_on_WACV_2024_paper.pdf)
@@ -584,6 +610,7 @@
   * [Leveraging Synthetic Data To Learn Video Stabilization Under Adverse Conditions](http://arxiv.org/abs/2208.12763)
 * 录像带修复
   * [Reference-Based Restoration of Digitized Analog Videotapes](http://arxiv.org/abs/2310.14926)
+  * [Restoring Degraded Old Films With Recursive Recurrent Transformer Networks](https://openaccess.thecvf.com/content/WACV2024/papers/Lin_Restoring_Degraded_Old_Films_With_Recursive_Recurrent_Transformer_Networks_WACV_2024_paper.pdf)
 * 视频时刻检索
   * [Zero-Shot Video Moment Retrieval from Frozen Vision-Language Models](https://arxiv.org/abs/2309.00661)
   * [Semantic Fusion Augmentation and Semantic Boundary Detection: A Novel Approach to Multi-Target Video Moment Retrieval](https://openaccess.thecvf.com/content/WACV2024/papers/Huang_Semantic_Fusion_Augmentation_and_Semantic_Boundary_Detection_A_Novel_Approach_WACV_2024_paper.pdf)
@@ -938,6 +965,10 @@
   * [Ordinal Classification With Distance Regularization for Robust Brain Age Prediction](https://openaccess.thecvf.com/content/WACV2024/papers/Shah_Ordinal_Classification_With_Distance_Regularization_for_Robust_Brain_Age_Prediction_WACV_2024_paper.pdf)
 * 糖尿病视网膜分类
   * [Generalizing to Unseen Domains in Diabetic Retinopathy Classification](http://arxiv.org/abs/2310.17255v1)
+* 病理切片图像
+  * [Diffusion-Based Generation of Histopathological Whole Slide Images at a Gigapixel Scale](https://openaccess.thecvf.com/content/WACV2024/papers/Harb_Diffusion-Based_Generation_of_Histopathological_Whole_Slide_Images_at_a_Gigapixel_WACV_2024_paper.pdf)
+* 牙齿分割
+  * [Self-Supervised Learning With Masked Autoencoders for Teeth Segmentation From Intra-Oral 3D Scans](https://openaccess.thecvf.com/content/WACV2024/papers/Almalki_Self-Supervised_Learning_With_Masked_Autoencoders_for_Teeth_Segmentation_From_Intra-Oral_WACV_2024_paper.pdf)
 
 <a name="5"/>
 
@@ -955,6 +986,7 @@
 
 ## 4.Image/Video Caption(图像/视频字幕)
 * [Simple Token-Level Confidence Improves Caption Correctness](http://arxiv.org/abs/2305.07021)
+* [Describe Images in a Boring Way: Towards Cross-Modal Sarcasm Generation](https://openaccess.thecvf.com/content/WACV2024/papers/Ruan_Describe_Images_in_a_Boring_Way_Towards_Cross-Modal_Sarcasm_Generation_WACV_2024_paper.pdf)
 * [Augment the Pairs: Semantics-Preserving Image-Caption Pair Augmentation for Grounding-Based Vision and Language Models](http://arxiv.org/abs/2311.02536v1)<br>:star:[code](https://github.com/amzn/augment-the-pairs-wacv2024)
 * [FuseCap: Leveraging Large Language Models for Enriched Fused Image Captions](https://openaccess.thecvf.com/content/WACV2024/papers/Rotstein_FuseCap_Leveraging_Large_Language_Models_for_Enriched_Fused_Image_Captions_WACV_2024_paper.pdf)
 
@@ -998,9 +1030,16 @@
 <a name="1"/>
 
 ## 1.其它
+* [Bag of Tricks for Fully Test-Time Adaptation](http://arxiv.org/abs/2310.02416)
 * [DISCO: Distributed Inference With Sparse Communications](http://arxiv.org/abs/2302.11180)
+* [Towards a Dynamic Vision Sensor-Based Insect Camera Trap](https://openaccess.thecvf.com/content/WACV2024/papers/Gebauer_Towards_a_Dynamic_Vision_Sensor-Based_Insect_Camera_Trap_WACV_2024_paper.pdf)<br>:star:[code](https://zivgitlab.uni-muenster.de/cvmls/neuromorphic-insect-detection)
+* [Using Early Readouts To Mediate Featural Bias in Distillation](http://arxiv.org/abs/2310.18590)
+* [Understanding Dark Scenes by Contrasting Multi-Modal Observations](http://arxiv.org/abs/2308.12320)
+* [Causal Feature Alignment: Learning To Ignore Spurious Background Features](https://openaccess.thecvf.com/content/WACV2024/papers/Venkataramani_Causal_Feature_Alignment_Learning_To_Ignore_Spurious_Background_Features_WACV_2024_paper.pdf)
+* [Rethinking Multimodal Content Moderation From an Asymmetric Angle With Mixed-Modality](http://arxiv.org/abs/2305.10547)
 * [Neural Echos: Depthwise Convolutional Filters Replicate Biological Receptive Fields](https://openaccess.thecvf.com/content/WACV2024/papers/Babaiee_Neural_Echos_Depthwise_Convolutional_Filters_Replicate_Biological_Receptive_Fields_WACV_2024_paper.pdf)
 * [SLoSH: Set Locality Sensitive Hashing via Sliced-Wasserstein Embeddings](http://arxiv.org/abs/2112.05872)
+* [Auto-BPA: An Enhanced Ball-Pivoting Algorithm With Adaptive Radius Using Contextual Bandits](https://openaccess.thecvf.com/content/WACV2024/papers/Saffi_Auto-BPA_An_Enhanced_Ball-Pivoting_Algorithm_With_Adaptive_Radius_Using_Contextual_WACV_2024_paper.pdf)
 * [Solving the Plane-Sphere Ambiguity in Top-Down Structure-From-Motion](https://openaccess.thecvf.com/content/WACV2024/papers/Haalck_Solving_the_Plane-Sphere_Ambiguity_in_Top-Down_Structure-From-Motion_WACV_2024_paper.pdf)
 * [Guided Cluster Aggregation: A Hierarchical Approach to Generalized Category Discovery](https://openaccess.thecvf.com/content/WACV2024/papers/Otholt_Guided_Cluster_Aggregation_A_Hierarchical_Approach_to_Generalized_Category_Discovery_WACV_2024_paper.pdf)
 * [Recognition of Unseen Bird Species by Learning From Field Guides](https://openaccess.thecvf.com/content/WACV2024/papers/Rodriguez_Recognition_of_Unseen_Bird_Species_by_Learning_From_Field_Guides_WACV_2024_paper.pdf)
