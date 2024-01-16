@@ -17,7 +17,7 @@
 #### 🏆最佳论文荣誉提名
 [ParticleNeRF: A Particle-Based Encoding for Online Neural Radiance Fields](https://openaccess.thecvf.com/content/WACV2024/papers/Abou-Chakra_ParticleNeRF_A_Particle-Based_Encoding_for_Online_Neural_Radiance_Fields_WACV_2024_paper.pdf)
 
-## 查看2023年综述文献点这里↘️[2023-CV-Surveys](https://github.com/52CV/CV-Surveys)
+## 查看2024年综述文献点这里↘️[2024-CV-Surveys](https://github.com/52CV/CV-Surveys)
 
 ## 2024 年论文分类汇总戳这里
 ↘️[WACV-2024-Papers](https://github.com/52CV/WACV-2024-Papers)
@@ -26,6 +26,7 @@
 ↘️[CVPR-2023-Papers](https://github.com/52CV/CVPR-2023-Papers)
 ↘️[WACV-2023-Papers](https://github.com/52CV/WACV-2023-Papers)
 ↘️[ICCV-2023-Papers](https://github.com/52CV/ICCV-2023-Papers)
+↘️[2024-CV-Surveys](https://github.com/52CV/CV-Surveys/blob/main/2023-CV-Surveys.md)
 
 ## [2022 年论文分类汇总戳这里](#000)
 ## [2021 年论文分类汇总戳这里](#00)
