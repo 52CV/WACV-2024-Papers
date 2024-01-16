@@ -50,7 +50,7 @@
 |[41.Image Progress(低层图像处理、质量评价)](#41)|[42.Image Classification(图像分类)](#42)|[43.Image Fusion(图像融合)](#43)|[44.visual industrial inspection(工业检测)](#44)|
 |[45.Visual Tampering Detection(视觉篡改检测)](#45)|[46.Dense Prediction(密集预测)](#46)|[47.Edge Detection(边缘检测)](#47)|[48.Image/Video Editing](#48)|
 |[49.Vision Transformers](#49)|[50.Dataset(数据集)](#50)|[51.sound(语音)](#51)|[52.Gaze Estimation(凝视估计)](#52)|[53.Crack Segmentation](#53)|
-|[54.Style Transfer(风格迁移)](#54)|[55.Biometrics(生物特征识别)](#55)|[56.Event Cameras(事件相机)](#56)|
+|[53.Crack Segmentation](#53)|[54.Style Transfer(风格迁移)](#54)|[55.Biometrics(生物特征识别)](#55)|[56.Event Cameras(事件相机)](#56)|
 |[57.Neural Radiance Fields(NeRF)](#57)|[58.Novel View Synthesis(新视角合成)](#58)|[59.Rendering](#59)|[60.Graphic Layout(图形布局)](#60)|
 |[61.Computed Imaging(计算成像，如光学、几何、光场成像等)](#61)|
 
